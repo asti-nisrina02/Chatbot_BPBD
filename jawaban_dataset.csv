@@ -1,0 +1,1392 @@
+question,answer,context,reference
+Apa yang harus dilakukan saat terjadi banjir?,"Baik, saya akan memberikan jawaban berdasarkan informasi dari basis data knowledge graph yang Anda berikan:
+
+**Pra Bencana**
+
+*   Perhatikan wilayah dan zona rawan banjir.
+*   Patuhi langkah antisipasi banjir yang telah ditetapkan.
+*   Pastikan fasilitas kesehatan terdekat tersedia.
+
+**Saat Bencana**
+
+*   Hindari area yang terkena air banjir.
+*   Cuci tangan dengan sabun dan air bersih.
+*   Jauhi gedung/rumah yang tergenang air banjir.
+
+**Pasca Bencana**
+
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Bagaimana cara mempersiapkan diri sebelum banjir terjadi?,"Pra Bencana:
+1.  Identifikasi zona rawan banjir di wilayah Anda.
+2.  Persiapkan bantuan perumahan/shelter.
+3.  Lakukan langkah antisipasi terkait sisa-sisa kotoran dan arus air.
+
+Saat Bencana:
+Tidak tersedia dalam basis data
+
+Pasca Bencana:
+Tidak tersedia dalam basis data","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa yang dilakukan pasca bencana banjir?,"Pasca Bencana:
+
+*   Air banjir berkaitan dengan: mencuci tangan
+*   Wilayah banjir berkaitan dengan: air banjir
+*   Saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa itu banjir?,"Baik, saya akan menjawab pertanyaan tentang banjir berdasarkan informasi dari basis data knowledge graph:
+
+**Pra Bencana:**
+
+*   Banjir berkaitan dengan zona rawan banjir.
+*   Banjir berkaitan dengan langkah antisipasi.
+*   Banjir berkaitan dengan wilayah banjir.
+
+**Saat Bencana:**
+
+*   Air banjir berkaitan dengan gedung/rumah.
+*   Air banjir berkaitan dengan mencuci tangan.
+*   Air banjir berkaitan dengan makanan.
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa penyebab banjir di Kabupaten Bogor?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban berdasarkan basis data knowledge graph:
+
+**Pra Bencana:**
+
+*   Zona rawan banjir merupakan faktor penting yang berkontribusi terhadap risiko banjir.
+*   Banjir berkaitan dengan sisa-sisa kotoran yang dapat memperburuk kondisi air.
+*   Langkah antisipasi perlu dilakukan untuk memitigasi potensi banjir.
+
+**Saat Bencana:**
+
+*   Air banjir berkaitan dengan gedung/rumah yang terendam.
+*   Air banjir berkaitan dengan mencuci tangan untuk kebersihan.
+*   Air banjir berkaitan dengan makanan yang berpotensi terkontaminasi.
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa yang dimaksud dengan daerah rawan banjir?,"Pra Bencana:
+- Zona rawan banjir berkaitan dengan wilayah yang berpotensi banjir.
+- Zona rawan banjir berkaitan dengan sisa-sisa kotoran yang menjadi penyebab.
+- Zona rawan banjir berkaitan dengan bantuan perumahan/shelter.
+
+Saat Bencana:
+- Tidak tersedia dalam basis data
+
+Pasca Bencana:
+- Tidak tersedia dalam basis data","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Bagaimana cara mencegah banjir di lingkungan sekitar?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut cara mencegah banjir berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+1.  Identifikasi dan perhatikan zona rawan banjir di lingkungan sekitar.
+2.  Pastikan saluran air banjir berfungsi dengan baik.
+3.  Siapkan langkah antisipasi banjir, termasuk rencana evakuasi.
+
+**Saat Bencana:**
+Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+1.  Bersihkan sisa-sisa kotoran dan limbah yang menjadi penyebab banjir.
+2.  Perbaiki atau perluas bantuan perumahan/shelter di zona rawan banjir.
+3.  Gunakan air banjir untuk mencuci tangan.
+","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa itu sistem peringatan dini banjir?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban mengenai sistem peringatan dini banjir berdasarkan data yang tersedia:
+
+Pra Bencana:
+*   Sistem peringatan dini banjir melibatkan pemantauan zona rawan banjir.
+*   Pemantauan ini mencakup arus air dan sisa-sisa kotoran.
+*   Data ini digunakan untuk langkah antisipasi.
+
+Saat Bencana:
+*   Tidak tersedia dalam basis data mengenai informasi spesifik saat banjir terjadi.
+
+Pasca Bencana:
+*   Tidak tersedia dalam basis data mengenai informasi pasca banjir.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa yang harus dilakukan saat banjir mulai datang?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah langkah-langkah yang harus dilakukan saat banjir mulai datang, berdasarkan basis data yang tersedia:
+
+**Saat Bencana**
+
+1.  **Evakuasi:** Segera evakuasi diri ke tempat yang lebih tinggi, terutama jika ada arus air.
+2.  **Mencuci Tangan:** Lakukan pencucian tangan dengan air bersih untuk mencegah penyebaran penyakit.
+3.  **Hindari:** Hindari memasuki gedung/rumah yang tergenang air banjir.
+
+---
+Catatan: Informasi tentang langkah antisipasi, bantuan perumahan/shelter, fasilitas kesehatan terdekat, atau dampak saluran air banjir tidak tersedia dalam basis data ini.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apakah boleh menerobos banjir dengan kendaraan?,"Pra Bencana: Tidak tersedia dalam basis data mengenai rekomendasi untuk menerobos banjir dengan kendaraan.
+Saat Bencana: Air banjir berkaitan dengan gedung/rumah, sehingga menerobos banjir dengan kendaraan berisiko.
+Pasca Bencana: Tidak tersedia dalam basis data mengenai dampaknya dari menerobos banjir dengan kendaraan.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa bahaya yang mengintai saat banjir?,"Baik, saya akan menjawab pertanyaan Anda berdasarkan basis data knowledge graph yang diberikan:
+
+Pra Bencana:
+- Gedung/rumah dapat terendam air banjir.
+- Makanan dapat terkontaminasi.
+- Mencuci tangan menjadi sulit dilakukan.
+
+Saat Bencana:
+- Tidak tersedia dalam basis data
+
+Pasca Bencana:
+- Tidak tersedia dalam basis data
+","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Bagaimana cara menyelamatkan diri jika terjebak banjir di dalam rumah?,"Berikut adalah cara menyelamatkan diri jika terjebak banjir di dalam rumah, berdasarkan informasi yang tersedia:
+
+**Pra Bencana**
+*   Identifikasi fasilitas kesehatan terdekat melalui zona rawan banjir.
+*   Pastikan lokasi rumah tidak termasuk wilayah banjir.
+
+**Saat Bencana**
+*   Cari tempat tinggi di dalam rumah, seperti meja atau perabotan yang kokoh.
+*   Lakukan mencuci tangan dengan air bersih jika memungkinkan.
+
+**Pasca Bencana**
+*   Tidak tersedia dalam basis data","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Apa yang harus dilakukan setelah banjir surut?,"Pasca Bencana:
+
+1.  Periksa kerusakan gedung/rumah.
+2.  Pastikan pencucian tangan dilakukan.
+3.  Periksa dampak pada saluran air banjir.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Penyakit apa yang sering muncul setelah banjir?,"Berikut adalah jawaban berdasarkan basis data knowledge graph:
+
+**Pra Bencana:** Tidak tersedia dalam basis data
+**Saat Bencana:** Air banjir dapat mengenai gedung/rumah dan makanan.
+**Pasca Bencana:** Mencuci tangan.
+","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Bagaimana cara memastikan air minum aman setelah banjir?,"Berikut adalah cara memastikan air minum aman setelah banjir berdasarkan informasi yang tersedia:
+
+**Pasca Bencana:**
+
+1.  **Mencuci tangan:**  Mencuci tangan dengan sabun dan air setelah banjir membantu menghilangkan kontaminasi.
+2.  **Air banjir:** Air banjir dapat mengenai gedung/rumah, jadi pastikan air yang digunakan bersih.
+3.  **Makanan:** Air banjir juga bisa mengenai makanan, jadi hindari mengonsumsi makanan yang terpapar air banjir.","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya","- banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi
+- zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat
+- wilayah banjir berkaitan dengan: air banjir
+- air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan
+- saluran air banjir berkaitan dengan: dampaknya"
+Bagaimana cara mitigasi tanah longsor?,"Berikut adalah cara mitigasi tanah longsor berdasarkan informasi yang tersedia:
+
+Pra Bencana:
+1. Identifikasi daerah rawan bencana dan wilayah dengan kondisi tanah yang labil.
+2. Perkuat fondasi dan tambalan batuan untuk mengurangi risiko runtuhan.
+3. Perbaiki drainase untuk mengurangi tekanan pada tanah.
+
+Saat Bencana:
+1. Evakuasi ke zona evakuasi yang telah ditetapkan.
+2. Gunakan jangkar untuk menstabilkan lereng yang berpotensi longsor.
+3. Pantau melalui Sistem Peringatan Dini Longsor.
+
+Pasca Bencana:
+1. Periksa material longsoran untuk penanganan lebih lanjut.
+2. Lakukan stabilisasi lereng dengan memperhatikan kondisi tanah.
+3. Perbaiki drainase untuk mencegah terulangnya kejadian.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa yang harus dilakukan saat terjadi tanah longsor?,"Baik, sebagai Asisten Mitigasi Bencana BPBD Kabupaten Bogor, berikut adalah langkah-langkah yang harus dilakukan saat terjadi tanah longsor berdasarkan informasi yang tersedia:
+
+**Pra Bencana**
+*   Perhatikan wilayah yang termasuk Daerah Rawan Bencana.
+*   Pastikan kondisi drainase dan jangkar berfungsi dengan baik.
+
+**Saat Bencana**
+*   Segera evakuasi wilayah yang terkena dampak runtuhan batuan.
+*   Pindahkan warga ke zona evakuasi yang telah ditentukan.
+
+**Pasca Bencana**
+*   Evaluasi kerusakan pada fondasi dan infrastruktur.
+*   Perhatikan kondisi tanah yang labil sebagai indikasi material longsor.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa yang dilakukan setelah tanah longsor?,"Berikut adalah tindakan yang dilakukan setelah tanah longsor berdasarkan informasi yang tersedia:
+
+Pra Bencana / Saat Bencana / Pasca Bencana
+- Penilaian Daerah Rawan Bencana dan runtuhan batuan.
+- Peninjauan kondisi drainase dan jangkar.
+- Penentuan zona evakuasi.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa itu tanah longsor?,"Pra Bencana: Tanah longsor berkaitan dengan kondisi tanah yang labil.
+Saat Bencana: Tanah longsor berkaitan dengan runtuhan batuan.
+Pasca Bencana: Tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Mengapa Kabupaten Bogor sangat rawan longsor?,"Pra Bencana:
+- Kabupaten Bogor sangat rawan longsor karena berkaitan dengan Daerah Rawan Bencana.
+- Kondisi tanah yang labil merupakan faktor utama wilayah longsor di Bogor.
+- Runtuhan batuan dan adanya jangkar yang tidak memadai dapat memperburuk kondisi.
+
+Saat Bencana:
+- Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+- Tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa tanda-tanda akan terjadi tanah longsor?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah tanda-tanda akan terjadi tanah longsor berdasarkan informasi yang tersedia:
+
+**Pra Bencana:**
+*   Kondisi tanah yang labil.
+*   Runtuhan batuan.
+*   Daerah Rawan Bencana.
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data.
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa upaya pencegahan longsor yang bisa dilakukan masyarakat?,"Berikut upaya pencegahan longsor yang bisa dilakukan masyarakat berdasarkan informasi yang tersedia:
+
+Pra Bencana:
+- Waspada terhadap kondisi tanah yang labil.
+- Memastikan fondasi bangunan kuat.
+- Memperhatikan wilayah rawan bencana.
+
+Saat Bencana:
+- Tidak tersedia dalam basis data
+
+Pasca Bencana:
+- Memperbaiki drainase.
+- Memperkuat jangkar.
+- Tidak tersedia dalam basis data","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Kapan waktu paling rawan terjadinya longsor di Bogor?,"Pra Bencana: Informasi mengenai waktu paling rawan tidak tersedia dalam basis data.
+Saat Bencana: Informasi mengenai waktu paling rawan tidak tersedia dalam basis data.
+Pasca Bencana: Informasi mengenai waktu paling rawan tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Ke arah mana harus berlari saat ada longsor?,"Pra Bencana: Perhatikan informasi dari Sistem Peringatan Dini Longsor.
+Saat Bencana: Menuju zona evakuasi yang telah ditentukan.
+Pasca Bencana: Tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa yang harus dilakukan jika tertimbun longsor?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban berdasarkan basis data yang tersedia:
+
+**Pra Bencana:**
+
+*   Perhatikan indikasi Daerah Rawan Bencana.
+*   Pastikan fondasi bangunan kuat dan terawat.
+*   Perhatikan kondisi drainase dan keberadaan jangkar.
+
+**Saat Bencana:**
+
+*   Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Bagaimana cara menolong korban longsor?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut cara menolong korban longsor berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+*   Identifikasi daerah rawan bencana dan zona evakuasi.
+*   Perhatikan kondisi tanah yang labil sebagai indikasi potensi longsor.
+*   Pastikan Sistem Peringatan Dini Longsor aktif dan terdata dengan baik.
+
+**Saat Bencana:**
+*   Evakuasi segera penduduk di wilayah yang terpicu longsor.
+*   Perkuat fondasi dan pastikan drainase berfungsi untuk mengurangi risiko.
+*   Pertimbangkan penggunaan jangkar untuk stabilitas area yang berpotensi longsor.
+
+**Pasca Bencana:**
+*   Lakukan peninjauan runtuhan batuan untuk evaluasi lebih lanjut.
+*   Identifikasi material longsor yang menjadi penyebab utama.
+*   Perbaiki infrastruktur yang rusak, terutama terkait drainase dan fondasi.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa yang harus diwaspadai setelah longsor?,"Pasca Bencana:
+- Kondisi tanah yang labil
+- Runtuhan batuan
+- Beberapa wilayah","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apakah warga boleh kembali ke rumah setelah longsor?,"Pra Bencana: Tidak tersedia dalam basis data.
+Saat Bencana: Tidak tersedia dalam basis data.
+Pasca Bencana: Informasi mengenai boleh atau tidaknya warga kembali ke rumah setelah longsor tidak tersedia dalam basis data.","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa langkah evakuasi saat gempa bumi?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut langkah evakuasi berdasarkan informasi yang tersedia:
+
+**Pra Bencana:**
+*   Tetap waspada terhadap gempa bumi.
+*   Waspadai potensi kerusakan pada jalan, jembatan, bangunan.
+*   Kenali Daerah Rawan Gempa Bumi tempat tinggal.
+
+**Saat Bencana:**
+*   Evakuasi segera ke tempat yang lebih aman.
+*   Perhatikan informasi Kedalaman Gempa dan Potensi Tsunami.
+
+**Pasca Bencana:**
+*   Tetap waspada terhadap gempa bumi susulan.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa yang harus dilakukan setelah gempa bumi?,"Baik, sebagai Asisten Mitigasi Bencana BPBD Kabupaten Bogor, berikut langkah-langkah setelah gempa bumi berdasarkan informasi yang tersedia:
+
+**Saat Bencana:**
+
+1.  Tetap waspada terhadap gempa bumi susulan.
+2.  Perhatikan potensi kerusakan pada Jalan, Jembatan, Bangunan.
+3.  Perhatikan potensi Tsunami.
+
+**Pasca Bencana:**
+
+1.  Perhatikan potensi Kerusakan.
+2.  Tetap waspada terhadap gempa bumi susulan.
+","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Bagaimana cara mempersiapkan diri sebelum gempa bumi?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah persiapan diri sebelum gempa bumi berdasarkan informasi yang tersedia:
+
+**Pra Bencana:**
+*   Tetap waspada terhadap gempa bumi susulan.
+*   Kenali bahwa Kabupaten Bogor merupakan Daerah Rawan Gempa Bumi.
+*   Perhatikan informasi mengenai potensi tsunami terkait gempa bumi.
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa itu gempa bumi?,"Berikut jawaban berdasarkan basis data knowledge graph:
+
+**Pra Bencana:**
+*   Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi.
+*   Gempa Bumi berkaitan dengan: Jalan, Jembatan, Bangunan.
+*   Gempa Bumi berkaitan dengan: tetap waspada.
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data.
+
+**Pasca Bencana:**
+*   Gempa Bumi berkaitan dengan: Kerusakan.
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa penyebab gempa bumi?,"Pra Bencana: Daerah Rawan Gempa Bumi.
+Saat Bencana: Jalan, Jembatan, Bangunan.
+Pasca Bencana: Tetap waspada.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa saja yang harus ada dalam tas darurat gempa?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah saran untuk tas darurat gempa berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+
+*   Perbekalan makanan ringan dan air bersih untuk beberapa hari.
+*   Peralatan pertolongan pertama seperti P3K dan obat-obatan pribadi.
+*   Selimut atau jaket tebal untuk berjaga-jaga terhadap suhu dingin.
+
+**Saat Bencana:**
+
+*   Tetap waspada terhadap gempa bumi susulan.
+*   Perbekalan makanan ringan dan air bersih untuk mengurangi rasa lapar dan dehidrasi.
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apakah Kabupaten Bogor rawan gempa bumi?,"Pra Bencana: Ya, Kabupaten Bogor adalah Daerah Rawan Gempa Bumi.
+Saat Bencana: Gempa Bumi dapat menyebabkan Kerusakan pada jalan, jembatan, dan bangunan.
+Pasca Bencana: Tetap waspada terhadap gempa bumi susulan.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa yang harus dilakukan saat gempa bumi terjadi di dalam ruangan?,"Pra Bencana: Tetap waspada.
+Saat Bencana: Lindungi diri di bawah meja atau perabot yang kuat.
+Pasca Bencana: Tidak tersedia dalam basis data.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa yang harus dilakukan saat gempa bumi terjadi di luar ruangan?,"Pra Bencana: Tetap waspada.
+
+Saat Bencana: Cari tempat berlindung yang aman, seperti di bawah meja atau di sudut ruangan.
+
+Pasca Bencana: Tetap waspada terhadap gempa bumi susulan.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa yang tidak boleh dilakukan saat gempa bumi?,"**Pra Bencana:** Tidak tersedia dalam basis data
+
+**Saat Bencana:** Tetap waspada terhadap gempa bumi susulan.
+Hindari Daerah Rawan Gempa Bumi.
+
+**Pasca Bencana:** Tidak tersedia dalam basis data","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa yang harus dilakukan setelah gempa bumi berhenti?,"Pasca Bencana:
+
+*   Tetap waspada terhadap gempa bumi susulan.
+*   Perhatikan potensi kerusakan pada Jalan, Jembatan, Bangunan.
+*   Informasi Gempa Bumi memberikan data Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi untuk evaluasi lebih lanjut.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Apa itu gempa susulan?,"Pra Bencana: Gempa susulan berkaitan dengan tetap waspada.
+Saat Bencana: Tidak tersedia dalam basis data.
+Pasca Bencana: Tidak tersedia dalam basis data.","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Bagaimana cara membantu korban gempa yang terluka?,"Baik, sebagai Asisten Mitigasi Bencana BPBD Kabupaten Bogor, berikut adalah langkah-langkah membantu korban gempa yang terluka berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+*   Tidak tersedia dalam basis data
+
+**Saat Bencana:**
+*   Prioritaskan penanganan pertama pada korban yang terluka.
+*   Evakuasi korban yang terluka menuju tempat yang aman.
+*   Pastikan akses informasi gempa seperti Kedalaman Gempa dan Potensi Tsunami.
+
+**Pasca Bencana:**
+*   Tetap waspada terhadap gempa susulan.
+*   Tidak tersedia dalam basis data","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi","- gempa bumi susulan berkaitan dengan: tetap waspada
+- Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan
+- Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi"
+Bagaimana cara mempersiapkan diri sebelum bencana angin kencang?,"Pra Bencana:
+1.  Periksa kekuatan bangunan dan infrastruktur untuk memastikan kokoh.
+2.  Pastikan rumah dan lingkungan bebas dari bahan mudah terbakar.
+3.  Waspadai potensi Angin Puting Beliung dan angin kencang.
+
+Saat Bencana:
+1.  Cegah penyebaran api jika angin kencang terjadi.
+2.  Lindungi bangunan kokoh dari dampak angin.
+3.  Lindungi rumah dan infrastruktur.
+
+Pasca Bencana:
+1.  Tidak tersedia dalam basis data","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa dampak angin kencang terhadap infrastruktur?,"Pra Bencana: Angin kencang berkaitan dengan infrastruktur.
+Saat Bencana: Angin kencang berkaitan dengan penyebaran api.
+Pasca Bencana: Tidak tersedia dalam basis data.","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa yang harus dilakukan saat terjadi angin kencang?,"Saat Bencana:
+1.  Perkuat bangunan kokoh.
+2.  Jauhkan diri dari rumah dan infrastruktur.
+3.  Waspadai potensi bahaya pada rumah dan lingkungan sekitar.","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa itu angin puting beliung?,"Pra Bencana:
+- Angin Puting Beliung berkaitan dengan Angin Kencang.
+- Angin Puting Beliung berkaitan dengan Bangunan kokoh.
+- Angin Puting Beliung berkaitan dengan Rumah.
+","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Kapan angin puting beliung sering terjadi di Bogor?,"Pra Bencana: Tidak tersedia dalam basis data mengenai kapan angin puting beliung sering terjadi.
+Saat Bencana: Angin puting beliung berkaitan dengan rumah dan infrastruktur.
+Pasca Bencana: Tidak tersedia dalam basis data mengenai pasca bencana.","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa tanda-tanda akan terjadi angin puting beliung?,"Pra Bencana: Angin Puting Beliung berkaitan dengan Angin Kencang dan Rumah.
+Saat Bencana: Angin Puting Beliung berkaitan dengan Infrastruktur dan Bangunan kokoh.
+Pasca Bencana: Tidak tersedia dalam basis data.","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Bagaimana cara mempersiapkan rumah agar tahan angin puting beliung?,"Pra Bencana:
+1. Pastikan bangunan kokoh.
+2. Lindungi rumah dari kerusakan akibat angin puting beliung.
+3. Pertimbangkan lokasi rumah yang aman dari potensi dampak.
+
+Saat Bencana:
+Tidak tersedia dalam basis data
+
+Pasca Bencana:
+Tidak tersedia dalam basis data","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa yang harus dilakukan saat terjadi angin puting beliung?,"Pra Bencana:
+- Perhatikan peringatan dini angin kencang.
+- Pastikan bangunan kokoh.
+- Lindungi rumah dan infrastruktur.
+
+Saat Bencana:
+- Cari tempat berlindung di tempat yang aman.
+- Jauhi bangunan dan infrastruktur yang tidak kokoh.
+- Lindungi rumah dan perabotan.
+
+Pasca Bencana:
+- Lakukan peninjauan kerusakan pada bangunan dan infrastruktur.
+- Tidak tersedia dalam basis data","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apa yang harus dilakukan setelah angin puting beliung?,"Pasca Bencana:
+
+1.  Periksa kerusakan pada bangunan kokoh.
+2.  Periksa kerusakan pada rumah.
+3.  Periksa kerusakan pada infrastruktur.","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api","- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung
+- angin berkaitan dengan: kebakaran hutan
+- angin kencang berkaitan dengan: penyebaran api"
+Apakah puting beliung bisa terjadi lagi di lokasi yang sama?,"Tidak tersedia dalam basis data.
+",Tidak ada konteks ditemukan.,"- Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Infrastruktur, Rumah
+- Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung"
+Apa yang dilakukan pasca bencana erupsi gunung api?,"Pasca Bencana:
+
+*   Penanganan abu vulkanik.
+*   Pemantauan Danau Kawah.
+*   Penanganan terkait Kabupaten Bogor.","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa bahaya abu vulkanik saat erupsi gunung api?,"Pra Bencana:
+Abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar.
+
+Saat Bencana:
+Hujan abu lebat berkaitan dengan: Kawasan rawan.
+Erupsi Gunung Api berkaitan dengan: Hujan Abu.
+
+Pasca Bencana:
+Tidak tersedia dalam basis data.","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I"
+Bagaimana cara mitigasi erupsi gunung api?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah cara mitigasi erupsi gunung api berdasarkan informasi yang tersedia:
+
+**Pra Bencana:**
+
+1.  Gunung Salak, Gunung Gede, dan Gunung Api terkait dengan Kabupaten Bogor.
+2.  Gunung Berapi berkaitan dengan Danau Kawah.
+3.  Gunungapi berkaitan dengan abu vulkanik.
+
+**Saat Bencana:**
+
+Tidak tersedia dalam basis data.
+
+**Pasca Bencana:**
+
+Tidak tersedia dalam basis data.","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Gunung berapi apa saja yang ada di sekitar Kabupaten Bogor?,"Pra Bencana:
+1. Gunung Salak berkaitan dengan Kabupaten Bogor.
+2. Gunung Gede berkaitan dengan Kabupaten Bogor.
+3. Gunung Api berkaitan dengan Kabupaten Bogor.
+
+Saat Bencana:
+Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+Tidak tersedia dalam basis data.","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa itu status gunung berapi dan apa tingkatannya?,"Pra Bencana: Status gunung berapi tidak tersedia dalam basis data.
+Saat Bencana: Status gunung berapi tidak tersedia dalam basis data.
+Pasca Bencana: Status gunung berapi tidak tersedia dalam basis data.","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa tanda-tanda gunung berapi akan meletus?,"Pra Bencana:
+*   Gunung Api berkaitan dengan Kabupaten Bogor.
+*   Gunung Salak berkaitan dengan Kabupaten Bogor.
+*   Gunung Gede berkaitan dengan Kabupaten Bogor.
+
+Saat Bencana:
+*   Tidak tersedia dalam basis data
+
+Pasca Bencana:
+*   Tidak tersedia dalam basis data","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Bagaimana cara mempersiapkan diri jika tinggal dekat gunung berapi?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah persiapan diri jika tinggal dekat gunung berapi berdasarkan informasi yang tersedia:
+
+**Pra Bencana:**
+
+*   Gunung Salak, Gunung Gede, dan Gunung Berapi terkait dengan Kabupaten Bogor.
+*   Abu vulkanik dapat menjadi potensi bahaya.
+*   Perhatikan keberadaan Danau Kawah yang terkait dengan gunung api.
+
+**Saat Bencana:**
+
+*   Tidak tersedia dalam basis data informasi spesifik mengenai tindakan saat gunung berapi aktif.
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data informasi spesifik mengenai langkah-langkah pasca erupsi.
+","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa yang harus dilakukan saat gunung berapi meletus?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah tindakan yang harus dilakukan saat gunung berapi meletus berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+*   Gunung Salak, Gunung Gede, dan Gunung Api berkaitan dengan Kabupaten Bogor.
+*   Perhatikan informasi terkait abu vulkanik.
+*   Gunung Berapi berkaitan dengan Danau Kawah.
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa yang harus dilakukan saat terjadi hujan abu vulkanik?,"**Pra Bencana:**
+*   Perhatikan informasi terkait Erupsi Gunung Api.
+*   Hujan abu lebat mengindikasikan Kawasan Rawan.
+*   Lindungi atap rumah atau bangunan dari abu vulkanik.
+
+**Saat Bencana:**
+*   Jauhi KRB I.
+*   Kurangi terpapar abu vulkanik.
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data.","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I"
+Bagaimana cara melindungi pernapasan dari abu vulkanik?,"Pra Bencana: Abu vulkanik berkaitan dengan mengurangi terpapar.
+Saat Bencana: Tidak tersedia dalam basis data.
+Pasca Bencana: Tidak tersedia dalam basis data.","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I"
+Apakah abu vulkanik berbahaya bagi kesehatan?,"Pra Bencana: Abu vulkanik berkaitan dengan mengurangi terpapar.
+Saat Bencana: Hujan abu lebat berkaitan dengan Kawasan rawan.
+Pasca Bencana: Abu vulkanik berkaitan dengan atap rumah atau bangunan.","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I","- abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar
+- hujan abu lebat berkaitan dengan: Kawasan rawan
+- Hujan Abu berkaitan dengan: Erupsi Gunung Api
+- material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I"
+Kapan warga boleh kembali ke rumah setelah gunung meletus?,"Pra Bencana: Tidak tersedia dalam basis data
+Saat Bencana: Abu vulkanik
+Pasca Bencana: Tidak tersedia dalam basis data","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor","- gunungapi berkaitan dengan: abu vulkanik
+- Gunung Berapi berkaitan dengan: Danau Kawah
+- Gunung Api berkaitan dengan: Kabupaten Bogor
+- Gunung Salak berkaitan dengan: Kabupaten Bogor
+- Gunung Gede berkaitan dengan: Kabupaten Bogor"
+Apa itu lahar dingin dan kapan biasanya terjadi?,Tidak tersedia dalam basis data.,Tidak ada konteks ditemukan.,"- lahar dingin berkaitan dengan: lahar, curah hujan, Aliran Lahar"
+Apa yang harus dilakukan saat terjadi kebakaran hutan dan lahan?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah tindakan yang harus dilakukan saat terjadi kebakaran hutan dan lahan berdasarkan data yang tersedia:
+
+**Pra Bencana**
+*   Perlu dilakukan perlindungan terhadap hutan.
+*   Perlu dilakukan perlindungan terhadap partikulat (PM10).
+*   Perlu dilakukan perlindungan terhadap kerusakan hutan dan lahan.
+
+**Saat Bencana**
+*   Perlu dilakukan upaya perlindungan terhadap hutan dan lahan.
+*   Perlu dilakukan upaya mitigasi terhadap partikulat (PM10).
+*   Perlu dilakukan upaya mitigasi terhadap kerusakan hutan dan lahan.
+
+**Pasca Bencana**
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.
+*   Tidak tersedia dalam basis data.","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait"
+Bagaimana cara mencegah penyebaran api saat karhutla?,"Pra Bencana:
+*   Karhutla berkaitan dengan lahan.
+*   Karhutla berkaitan dengan partikulat (PM10).
+*   Tidak tersedia dalam basis data.
+
+Saat Bencana:
+*   Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+*   Tidak tersedia dalam basis data.","- karhutla berkaitan dengan: lahan, partikulat (PM10)","- karhutla berkaitan dengan: lahan, partikulat (PM10)"
+Apa perlengkapan yang dibutuhkan saat terjadi karhutla?,"Pra Bencana: Tidak tersedia dalam basis data.
+Saat Bencana: Perlengkapan terkait lahan dan partikulat (PM10).
+Pasca Bencana: Tidak tersedia dalam basis data.","- karhutla berkaitan dengan: lahan, partikulat (PM10)","- karhutla berkaitan dengan: lahan, partikulat (PM10)"
+Apa penyebab utama kebakaran hutan dan lahan?,"Pra Bencana:
+1. Kebakaran hutan dan lahan berkaitan dengan hutan.
+2. Kebakaran hutan dan lahan berkaitan dengan angin.
+3. Kebakaran hutan dan lahan berkaitan dengan perlindungan.
+
+Saat Bencana:
+Tidak tersedia dalam basis data
+
+Pasca Bencana:
+Tidak tersedia dalam basis data
+","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait"
+Bagaimana cara melindungi diri dari asap kebakaran hutan?,"Pra Bencana:
+1. Perhatikan perlindungan hutan.
+2. Waspadai partikulat (PM10).
+3. Perhatikan angin.
+
+Saat Bencana:
+Tidak tersedia dalam basis data
+
+Pasca Bencana:
+Tidak tersedia dalam basis data","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait"
+Apa dampak karhutla bagi kesehatan masyarakat?,"Pra Bencana: Tidak tersedia dalam basis data.
+Saat Bencana: Karhutla berkaitan dengan partikulat (PM10) yang dapat memengaruhi kesehatan.
+Pasca Bencana: Tidak tersedia dalam basis data.","- karhutla berkaitan dengan: lahan, partikulat (PM10)","- karhutla berkaitan dengan: lahan, partikulat (PM10)"
+Bagaimana cara melaporkan kebakaran hutan yang ditemukan?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah cara melaporkan kebakaran hutan berdasarkan basis data yang tersedia:
+
+**Pra Bencana:**
+1.  Perhatikan informasi terkait hutan.
+2.  Waspadai potensi partikulat (PM10).
+3.  Perhatikan kondisi cuaca, terutama angin.
+
+**Saat Bencana:**
+1.  Laporkan segera jika kebakaran ditemukan di hutan.
+2.  Sampaikan informasi terkait kerusakan hutan.
+3.  Informasikan adanya perlindungan hutan yang terancam.
+
+**Pasca Bencana:**
+1.  Laporkan kerusakan yang terjadi akibat kebakaran.
+2.  Sampaikan informasi mengenai pihak terkait yang terlibat.
+3.  Tidak tersedia dalam basis data","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait"
+Apa yang harus dilakukan setelah kebakaran hutan padam?,"Pasca Bencana:
+
+1.  Penilaian kerusakan terhadap hutan.
+2.  Perlindungan hutan dari partikulat (PM10).
+3.  Koordinasi dengan pihak terkait.","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait","- kebakaran berkaitan dengan: peralatan yang menggunakan listrik
+- kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin
+- Posko Kebakaran berkaitan dengan: pihak terkait"
+Bagaimana cara menghadapi bencana kekeringan?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut cara menghadapi bencana kekeringan berdasarkan informasi yang tersedia:
+
+**Pra Bencana**
+*   Kekeringan berkaitan dengan Penyakit, sehingga perlu pengawasan penyakit.
+*   Kekeringan berkaitan dengan Air bersih, sehingga perlu pengelolaan sumber air.
+*   Kekeringan berkaitan dengan Waduk/embung, sehingga perlu pemantauan kesejahteraan waduk/embung.
+
+**Saat Bencana**
+*   Tidak tersedia dalam basis data
+
+**Pasca Bencana**
+*   Tidak tersedia dalam basis data","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Apa sumber air yang bisa dimanfaatkan saat kekeringan?,"Pra Bencana:
+- Waduk/embung
+- Sumur resapan/biopori
+
+Saat Bencana:
+- Tidak tersedia dalam basis data
+
+Pasca Bencana:
+- Tidak tersedia dalam basis data","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Bagaimana cara mendapatkan informasi saat terjadi kekeringan?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut informasi cara mendapatkan informasi saat terjadi kekeringan berdasarkan basis data yang tersedia:
+
+**Pra Bencana:**
+
+*   Kekeringan berkaitan dengan Penyakit, jadi waspadai potensi peningkatan kasus penyakit.
+*   Kekeringan berkaitan dengan Air bersih, pantau ketersediaan air bersih.
+*   Kekeringan berkaitan dengan Waduk/embung, pantau status waduk/embung.
+
+**Saat Bencana:**
+
+*   Tidak tersedia dalam basis data informasi spesifik mengenai respon langsung saat kekeringan.
+
+**Pasca Bencana:**
+
+*   Kekeringan berkaitan dengan Waduk/embung, pantau kondisi waduk/embung setelah kekeringan.
+*   Kekeringan berkaitan dengan Sumur resapan/biopori, evaluasi efektivitas sumur resapan/biopori.
+","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Apa dampak bencana kekeringan bagi masyarakat?,"Pra Bencana: Kekeringan berkaitan dengan Penyakit.
+Saat Bencana: Kekeringan berkaitan dengan Air bersih.
+Pasca Bencana: Kekeringan berkaitan dengan Waduk/embung.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Bagaimana cara menghemat air saat kekeringan?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah cara menghemat air saat kekeringan berdasarkan data yang tersedia:
+
+**Pra Bencana:**
+*   Manfaatkan waduk/embung secara optimal.
+*   Buat sumur resapan/biopori untuk membantu penyerapan air.
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data.
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Apa yang harus dilakukan petani saat musim kekeringan?,"Pra Bencana: Perhatikan potensi penyakit terkait Kekeringan.
+Saat Bencana: Cari sumber Air bersih dan pastikan sumur resapan/biopori berfungsi.
+Pasca Bencana: Pantau kondisi Waduk/embung untuk antisipasi dampak Kekeringan.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Bagaimana cara mencegah kekeringan di tingkat rumah tangga?,"Pra Bencana:
+1.  Perhatikan potensi penyakit terkait Kekeringan.
+2.  Manfaatkan informasi Waduk/embung dan Sumur resapan/biopori.
+3.  Pastikan ketersediaan Air bersih.
+
+Saat Bencana:
+Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+Tidak tersedia dalam basis data.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Apa yang dilakukan pemerintah saat terjadi bencana kekeringan?,"Pra Bencana: Tidak tersedia dalam basis data.
+Saat Bencana: Kekeringan berkaitan dengan Penyakit, Air bersih, Waduk/embung.
+Pasca Bencana: Tidak tersedia dalam basis data.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Apa tanda-tanda awal terjadinya kekeringan?,"Pra Bencana:
+1. Penurunan level air pada waduk/embung.
+2. Kekeringan.
+3. Kekeringan berkaitan dengan sumur resapan/biopori.
+
+Saat Bencana:
+Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+Tidak tersedia dalam basis data.
+","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Bagaimana cara memanen air hujan untuk menghadapi kekeringan?,"Pra Bencana:
+1.  Waduk/embung dapat dimanfaatkan sebagai tempat penampungan air hujan.
+2.  Sumur resapan/biopori dapat dirancang untuk mengumpulkan air hujan.
+3.  Air bersih akan menjadi sumber utama untuk pengumpulan air hujan.
+
+Saat Bencana:
+Tidak tersedia dalam basis data.
+
+Pasca Bencana:
+Tidak tersedia dalam basis data.","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori","- Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori"
+Bagaimana cara mitigasi pergeseran tanah?,"Baik, sebagai Asisten Mitigasi Bencana BPBD Kabupaten Bogor, berikut cara mitigasi pergeseran tanah berdasarkan data yang tersedia:
+
+**Pra Bencana**
+1.  Periksa regulasi setempat terkait area rawan pergeseran tanah.
+2.  Lakukan evakuasi dini ke area yang berpotensi terpengaruh.
+3.  Identifikasi infrastruktur (Jalan, Jembatan, Bangunan) yang berdekatan dengan area berbahaya.
+
+**Saat Bencana**
+1.  Evakuasi masyarakat dari area yang terpengaruh pergeseran tanah.
+2.  Periksa kondisi Infrastruktur seperti Jalan, Jembatan, dan Bangunan.
+3.  Sediakan bantuan kepada masyarakat yang terdampak.
+
+**Pasca Bencana**
+1.  Periksa dampak pergeseran tanah pada area berbahaya.
+2.  Perbaiki infrastruktur yang rusak akibat pergeseran tanah.
+3.  Berikan bantuan kepada masyarakat yang terdampak secara langsung.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa dampak pergeseran tanah terhadap infrastruktur?,"Pra Bencana: Pergeseran tanah berkaitan dengan Infrastruktur, Jalan, Jembatan, Bangunan.
+Saat Bencana: Tidak tersedia dalam basis data.
+Pasca Bencana: Tidak tersedia dalam basis data.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa yang harus dilakukan saat terjadi pergeseran tanah?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut adalah langkah-langkah yang harus dilakukan saat terjadi pergeseran tanah berdasarkan basis data yang tersedia:
+
+**Pra Bencana:**
+
+*   Periksa regulasi setempat terkait area berbahaya.
+*   Lakukan evakuasi dini di area yang rawan pergeseran tanah.
+*   Waspadai potensi dampak pergeseran tanah pada infrastruktur.
+
+**Saat Bencana:**
+
+*   Evakuasi dini dari area yang terkena dampak.
+*   Periksa kondisi Infrastruktur, Jalan, Jembatan, Bangunan.
+*   Berikan bantuan kepada Masyarakat yang terdampak.
+
+**Pasca Bencana:**
+
+*   Tidak tersedia dalam basis data","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa itu pergeseran tanah?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban berdasarkan basis data yang diberikan:
+
+**Pra Bencana:**
+*   Pergeseran tanah berkaitan dengan area berbahaya.
+*   Pergeseran tanah berkaitan dengan tinggal di area yang rawan pergeseran tanah.
+*   Pergeseran tanah berkaitan dengan memeriksa regulasi setempat.
+
+**Saat Bencana:**
+*   Pergeseran tanah berkaitan dengan Infrastruktur, Jalan, dan Jembatan.
+*   Pergeseran tanah berkaitan dengan Bangunan.
+*   Pergeseran tanah berkaitan dengan evakuasi dini.
+
+**Pasca Bencana:**
+*   Pergeseran tanah berkaitan dengan bantuan.
+*   Pergeseran tanah berkaitan dengan Masyarakat.
+*   Tidak tersedia dalam basis data","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa tanda-tanda terjadinya pergeseran tanah?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban berdasarkan basis data yang diberikan:
+
+**Pra Bencana:**
+*   Area berbahaya
+*   Memeriksa regulasi setempat
+*   Tinggal di area yang rawan pergeseran tanah
+
+**Saat Bencana:**
+*   Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+*   Tidak tersedia dalam basis data","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apakah pergeseran tanah bisa berkembang menjadi longsor?,"Pra Bencana: Pergeseran tanah berkaitan dengan area berbahaya dan kondisi tanah yang labil.
+Saat Bencana: Pergeseran tanah berkaitan dengan Tanah Longsor dan Material Longsor.
+Pasca Bencana: Tidak tersedia dalam basis data.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat
+- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat
+- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Bagaimana cara memantau pergeseran tanah di sekitar rumah?,"Berikut adalah jawaban berdasarkan informasi basis data yang tersedia:
+
+**Pra Bencana:**
+
+1.  Periksa regulasi setempat terkait area berbahaya.
+2.  Waspadai potensi tinggal di area yang rawan pergeseran tanah.
+3.  Perhatikan informasi mengenai area berbahaya.
+
+**Saat Bencana:**
+
+Tidak tersedia dalam basis data
+
+**Pasca Bencana:**
+
+1.  Lakukan evakuasi dini.
+2.  Periksa dampak terhadap infrastruktur (Jalan, Jembatan, Bangunan).
+3.  Berikan bantuan kepada masyarakat.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa yang dilakukan BPBD saat terjadi pergeseran tanah?,"Baik, sebagai asisten mitigasi bencana BPBD Kabupaten Bogor, berikut jawaban berdasarkan basis data yang tersedia:
+
+**Pra Bencana**
+*   Mengidentifikasi area berbahaya akibat pergeseran tanah.
+*   Melakukan pemeriksaan regulasi setempat terkait risiko pergeseran tanah.
+*   Mempersiapkan evakuasi dini jika diperlukan.
+
+**Saat Bencana**
+*   Melakukan evakuasi dini masyarakat dari area yang rawan.
+*   Memberikan bantuan kepada masyarakat yang terdampak.
+
+**Pasca Bencana**
+*   Memeriksa dampak pergeseran tanah terhadap infrastruktur seperti jalan, jembatan, dan bangunan.
+*   Memberikan bantuan kepada masyarakat yang tinggal di area yang rawan pergeseran tanah.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Bagaimana cara memperkuat bangunan di daerah rawan pergeseran tanah?,"Pra Bencana:
+
+1.  Periksa regulasi setempat terkait area berbahaya.
+2.  Lakukan evakuasi dini ke area yang aman.
+3.  Pastikan bangunan diperkuat untuk tahan terhadap pergeseran tanah.
+
+Saat Bencana:
+
+1.  Prioritaskan bantuan untuk masyarakat yang terkena dampak.
+2.  Periksa kerusakan infrastruktur seperti jalan dan jembatan.
+3.  Hindari tinggal di area yang rawan pergeseran tanah.
+
+Pasca Bencana:
+
+1.  Lakukan pemeriksaan terhadap bangunan untuk memastikan keamanan.
+2.  Perbaiki infrastruktur yang rusak, seperti jalan dan jembatan.
+3.  Berikan bantuan kepada masyarakat yang membutuhkan.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat"
+Apa perbedaan pergeseran tanah dan tanah longsor?,"Berikut adalah jawaban berdasarkan informasi dalam basis data knowledge graph:
+
+**Pra Bencana:**
+
+*   Pergeseran tanah merujuk pada pergerakan tanah yang tidak stabil.
+*   Pergeseran tanah berkaitan dengan area berbahaya dan evakuasi dini.
+*   Pergeseran tanah berkaitan dengan memeriksa regulasi setempat.
+
+**Saat Bencana:**
+
+*   Tidak tersedia dalam basis data mengenai perbedaan spesifik antara keduanya.
+
+**Pasca Bencana:**
+
+*   Pergeseran tanah berkaitan dengan bantuan dan tinggal di area yang rawan pergeseran tanah.
+*   Tanah longsor berkaitan dengan daerah rawan bencana dan runtuhan batuan.
+*   Pergeseran tanah berkaitan dengan infrastruktur seperti Jalan, Jembatan, dan Bangunan.","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat
+- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Material Longsor berkaitan dengan: Material Longsor
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi","- pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah
+- Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat
+- Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar
+- wilayah longsor berkaitan dengan: kondisi tanah yang labil
+- Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi"
+Apa itu mitigasi bencana?,"Berikut adalah jawaban mengenai mitigasi bencana berdasarkan informasi yang tersedia:
+
+Pra Bencana / Mitigasi bencana berkaitan dengan Tahap prabencana
+Saat Bencana / Penyusunan pengkajian mitigasi berkaitan dengan Saat dan pasca bencana
+Pasca Bencana / Mitigasi bencana berkaitan dengan Penyusunan pengkajian mitigasi","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Penyusunan pengkajian mitigasi berkaitan dengan: Saat dan pasca bencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman"
+Apa peran BPBD dalam penanggulangan bencana?,"Berikut adalah peran BPBD dalam penanggulangan bencana berdasarkan data yang tersedia:
+
+**Pra Bencana:** Mitigasi bencana berkaitan dengan tahap prabencana.
+**Saat Bencana:** Tidak tersedia dalam basis data.
+**Pasca Bencana:** Tidak tersedia dalam basis data.","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman"
+Apa yang dimaksud dengan kesiapsiagaan bencana?,"Berdasarkan data yang tersedia:
+
+Pra Bencana / Mitigasi bencana
+- Kesiapsiagaan bencana berkaitan dengan Tahap prabencana.
+- tas siaga bencana berkaitan dengan air minum, makanan.
+- PetaBencana.id berkaitan dengan informasi.
+","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman"
+Berapa nomor darurat yang harus dihubungi saat bencana?,"Pra Bencana / Tangga darurat berkaitan dengan evakuasi.
+Tidak tersedia dalam basis data","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- tangga darurat berkaitan dengan: evakuasi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman"
+Apa itu titik kumpul dan apa fungsinya?,Tidak tersedia dalam basis data.,Tidak ada konteks ditemukan.,"- titik kumpul berkaitan dengan: evakuasi, zona evakuasi"
+Apa yang dimaksud dengan jalur evakuasi?,"Pra Bencana: Jalur evakuasi berkaitan dengan rute evakuasi.
+Saat Bencana: Jalur evakuasi berkaitan dengan rute evakuasi.
+Pasca Bencana: Tidak tersedia dalam basis data.","- evakuasi berkaitan dengan: tempat tinggi, daerah yang lebih tinggi, rute evakuasi
+- skenario evakuasi berkaitan dengan: dukungan logistik
+- zona evakuasi berkaitan dengan: wilayah","- evakuasi berkaitan dengan: tempat tinggi, daerah yang lebih tinggi, rute evakuasi
+- skenario evakuasi berkaitan dengan: dukungan logistik
+- zona evakuasi berkaitan dengan: wilayah"
+Apa saja tahapan pasca bencana?,"Pasca Bencana:
+*   Mitigasi bencana berkaitan dengan: Tahap prabencana
+*   PetaBencana.id berkaitan dengan: informasi
+*   tas siaga bencana berkaitan dengan: air minum, makanan","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman","- bencana berkaitan dengan: air banjir
+- PetaBencana.id berkaitan dengan: informasi
+- tas siaga bencana berkaitan dengan: air minum, makanan
+- Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi
+- Pra Bencana berkaitan dengan: Pergeseran Tanah
+- Mitigasi bencana berkaitan dengan: Tahap prabencana
+- Daerah Rawan Bencana berkaitan dengan: Pemukiman"
