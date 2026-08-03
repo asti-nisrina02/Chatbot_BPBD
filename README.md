@@ -1,5 +1,11 @@
 # BOGORSiaga — Chatbot Mitigasi Bencana Berbasis Knowledge Graph
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-final%20year%20project-orange)
+
+🇬🇧 [Read this in English](README.en.md)
+
 Final year project (skripsi) untuk gelar sarjana Teknik Informatika, Universitas Ibn Khaldun (UIKA) Bogor.
 
 Chatbot ini dibangun untuk membantu masyarakat Kabupaten Bogor mengakses informasi kesiapsiagaan dan mitigasi bencana secara interaktif, dengan basis pengetahuan yang diekstraksi dari Buku Saku Siaga Bencana BPBD Kabupaten Bogor (Cetakan Kedua, 2024) ke dalam sebuah Knowledge Graph.
@@ -54,6 +60,8 @@ Chatbot ini dibangun untuk membantu masyarakat Kabupaten Bogor mengakses informa
 3. Jalankan Ollama dengan model `gemma3:4b`
 4. Ingest data: `python ingest_data.py`
 5. Jalankan aplikasi: `python app.py`
+
+> ⚠️ **Known issues:** Versi saat ini masih memiliki beberapa bug yang belum diperbaiki (terutama pada beberapa alur cache dan edge case pertanyaan tertentu). Repo ini dipublikasikan sebagai dokumentasi source code untuk keperluan akademik/portofolio, bukan sebagai aplikasi yang siap deploy.
 
 ## Catatan & Keterbatasan
 
