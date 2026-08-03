@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPBD Kabupaten Bogor - Chatbot Mitigasi Bencana</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --biru-tua: #1a3a6b;
+            --biru-medium: #1e4d8c;
+            --biru-muda: #2563b0;
+            --emas: #c8922a;
+            --emas-muda: #f0b840;
+            --merah-darurat: #c0392b;
+            --hijau-online: #27ae60;
+            --bg-light: #f0f4f9;
+            --bg-chat: #e8eef7;
+            --white: #ffffff;
+            --teks-gelap: #1a2a3a;
+            --teks-abu: #5a6a7a;
+            --border: #c5d3e8;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background: linear-gradient(135deg, #0d2550 0%, #1a3a6b 40%, #1e4d8c 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        /* Top bar */
+        .top-bar {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            padding: 0 4px;
+        }
+
+        .top-bar .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-shield {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--emas), var(--emas-muda));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 26px;
+            box-shadow: 0 4px 12px rgba(200,146,42,0.4);
+        }
+
+        .logo-text h1 {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 15px;
+            font-weight: 800;
+            color: white;
+            letter-spacing: 0.3px;
+        }
+
+        .logo-text p {
+            font-size: 11px;
+            color: rgba(255,255,255,0.65);
+            font-weight: 500;
+        }
+
+        .top-bar .tagline {
+            font-size: 11px;
+            color: rgba(255,255,255,0.5);
+            text-align: right;
+            line-height: 1.5;
+        }
+
+        /* Main layout */
+        .main-layout {
+            width: 100%;
+            max-width: 1100px;
+            display: grid;
+            grid-template-columns: 1fr 340px;
+            gap: 16px;
+            align-items: start;
+        }
+
+        /* Chat container */
+        .chat-container {
+            background: var(--white);
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            display: flex;
+            flex-direction: column;
+            height: 82vh;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        /* Header */
+        .chat-header {
+            background: linear-gradient(135deg, var(--biru-tua), var(--biru-medium));
+            padding: 14px 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            border-bottom: 3px solid var(--emas);
+        }
+
+        .header-avatar {
+            width: 44px;
+            height: 44px;
+            background: linear-gradient(135deg, var(--emas), var(--emas-muda));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 22px;
+            flex-shrink: 0;
+            box-shadow: 0 3px 10px rgba(200,146,42,0.4);
+        }
+
+        .header-info h2 {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            color: white;
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .header-info .status {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin-top: 2px;
+        }
+
+        .online-dot {
+            width: 7px;
+            height: 7px;
+            background: var(--hijau-online);
+            border-radius: 50%;
+            animation: pulse-dot 2s infinite;
+        }
+
+        @keyframes pulse-dot {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.7; transform: scale(1.2); }
+        }
+
+        .header-info .status span {
+            color: rgba(255,255,255,0.75);
+            font-size: 11px;
+        }
+
+        .header-badge {
+            margin-left: auto;
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.25);
+            color: white;
+            font-size: 10px;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 20px;
+            letter-spacing: 0.5px;
+        }
+
+        /* Chat messages */
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 18px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            background: var(--bg-chat);
+            background-image: 
+                radial-gradient(circle at 20% 80%, rgba(26,58,107,0.04) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(30,77,140,0.04) 0%, transparent 50%);
+        }
+
+        .chat-messages::-webkit-scrollbar { width: 4px; }
+        .chat-messages::-webkit-scrollbar-track { background: transparent; }
+        .chat-messages::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+        .bubble {
+            max-width: 82%;
+            padding: 10px 14px;
+            border-radius: 16px;
+            font-size: 13.5px;
+            line-height: 1.6;
+            word-wrap: break-word;
+            animation: fadeUp 0.25s ease-out;
+        }
+
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .bubble.user {
+            background: linear-gradient(135deg, var(--biru-medium), var(--biru-tua));
+            color: white;
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+            box-shadow: 0 2px 8px rgba(26,58,107,0.25);
+        }
+
+        .bubble.bot {
+            background: white;
+            color: var(--teks-gelap);
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border: 1px solid var(--border);
+        }
+
+        .sumber {
+            font-size: 11px;
+            color: var(--biru-muda);
+            align-self: flex-start;
+            margin-top: -6px;
+            padding-left: 4px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            font-weight: 500;
+        }
+
+        /* Typing */
+        .typing {
+            display: flex;
+            gap: 4px;
+            padding: 12px 16px;
+            background: white;
+            border-radius: 16px;
+            border-bottom-left-radius: 4px;
+            align-self: flex-start;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border: 1px solid var(--border);
+        }
+
+        .typing span {
+            width: 7px;
+            height: 7px;
+            background: var(--biru-muda);
+            border-radius: 50%;
+            animation: bounce 1.2s infinite;
+        }
+
+        .typing span:nth-child(2) { animation-delay: 0.2s; }
+        .typing span:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes bounce {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-6px); }
+        }
+
+        /* Input */
+        .chat-input {
+            padding: 12px 16px;
+            background: white;
+            border-top: 1px solid var(--border);
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .chat-input input {
+            flex: 1;
+            padding: 10px 16px;
+            border: 1.5px solid var(--border);
+            border-radius: 25px;
+            outline: none;
+            font-size: 13.5px;
+            font-family: 'DM Sans', sans-serif;
+            background: var(--bg-light);
+            color: var(--teks-gelap);
+            transition: border-color 0.2s, background 0.2s;
+        }
+
+        .chat-input input:focus {
+            border-color: var(--biru-muda);
+            background: white;
+        }
+
+        .chat-input input::placeholder { color: var(--teks-abu); }
+
+        .chat-input button {
+            width: 42px;
+            height: 42px;
+            background: linear-gradient(135deg, var(--biru-medium), var(--biru-tua));
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.15s, box-shadow 0.15s;
+            box-shadow: 0 3px 10px rgba(26,58,107,0.3);
+            flex-shrink: 0;
+        }
+
+        .chat-input button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(26,58,107,0.4);
+        }
+
+        .chat-input button:active { transform: scale(0.97); }
+
+        .chat-input button svg {
+            width: 18px;
+            height: 18px;
+            fill: white;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .sidebar-card {
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 14px;
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+        }
+
+        .sidebar-card-header {
+            background: linear-gradient(135deg, var(--emas), var(--emas-muda));
+            padding: 10px 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .sidebar-card-header h3 {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--biru-tua);
+            letter-spacing: 0.3px;
+        }
+
+        .sidebar-card-header span {
+            font-size: 15px;
+        }
+
+        .kontak-list {
+            padding: 8px 4px;
+        }
+
+        .kontak-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 7px 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            transition: background 0.15s;
+        }
+
+        .kontak-item:last-child { border-bottom: none; }
+        .kontak-item:hover { background: rgba(255,255,255,0.05); }
+
+        .kontak-item .nama {
+            font-size: 11.5px;
+            color: rgba(255,255,255,0.85);
+            font-weight: 500;
+            flex: 1;
+        }
+
+        .kontak-item .nomor {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--emas-muda);
+            letter-spacing: 0.3px;
+        }
+
+        .kontak-item.darurat .nomor {
+            color: var(--emas-muda);
+            font-size: 13px;
+        }
+
+        /* Info card */
+        .info-card-body {
+            padding: 12px 14px;
+        }
+
+        .info-card-body p {
+            font-size: 11.5px;
+            color: rgba(255,255,255,0.7);
+            line-height: 1.6;
+        }
+
+        .info-card-body .alamat {
+            margin-top: 8px;
+            display: flex;
+            gap: 6px;
+            align-items: flex-start;
+        }
+
+        .info-card-body .alamat span {
+            font-size: 13px;
+            flex-shrink: 0;
+        }
+
+        /* Quick topics */
+        .quick-topics {
+            padding: 10px 12px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .topic-chip {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: rgba(255,255,255,0.85);
+            font-size: 11px;
+            font-weight: 500;
+            padding: 5px 10px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .topic-chip:hover {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            transform: translateY(-1px);
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 12px;
+            text-align: center;
+            color: rgba(255,255,255,0.3);
+            font-size: 10.5px;
+        }
+
+        @media (max-width: 768px) {
+            .main-layout { grid-template-columns: 1fr; }
+            .sidebar { display: none; }
+            .chat-container { height: 88vh; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top bar -->
+    <div class="top-bar">
+        <div class="logo-area">
+            <div class="logo-shield">🛡️</div>
+            <div class="logo-text">
+                <h1>BPBD KABUPATEN BOGOR</h1>
+                <p>Badan Penanggulangan Bencana Daerah</p>
+            </div>
+        </div>
+        <div class="tagline">
+            Jalan Tegar Beriman, Cibinong<br>
+            bpbd@bogorkab.go.id
+        </div>
+    </div>
+
+    <!-- Main layout -->
+    <div class="main-layout">
+
+        <!-- Chat -->
+        <div class="chat-container">
+            <div class="chat-header">
+                <div class="header-avatar">🤖</div>
+                <div class="header-info">
+                    <h2>Asisten Mitigasi Bencana</h2>
+                    <div class="status">
+                        <div class="online-dot"></div>
+                        <span>Siap membantu Anda</span>
+                    </div>
+                </div>
+                <div class="header-badge">BPBD BOGORSiaga</div>
+            </div>
+
+            <div class="chat-messages" id="chatMessages">
+                <div class="bubble bot">
+                    Halo! Saya asisten mitigasi bencana BPBD Kabupaten Bogor. Silakan tanyakan informasi seputar mitigasi bencana di Kabupaten Bogor. 🙏
+                </div>
+            </div>
+
+            <div class="chat-input">
+                <input type="text" id="userInput" placeholder="Ketik pertanyaan kamu..." />
+                <button onclick="kirimPesan()">
+                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M2 21l21-9L2 3v7l15 2-15 2v7z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Sidebar -->
+        <div class="sidebar">
+
+            <!-- Quick topics -->
+            <div class="sidebar-card">
+                <div class="sidebar-card-header">
+                    <span>⚡</span>
+                    <h3>TOPIK CEPAT</h3>
+                </div>
+                <div class="quick-topics">
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi banjir')">🌊 Banjir</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi gempa bumi')">🌍 Gempa</div>
+                    <div class="topic-chip" onclick="kirimTopik('cara evakuasi longsor')">⛰️ Longsor</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi erupsi gunung api')">🌋 Erupsi</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi karhutla')">🔥 Karhutla</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi kekeringan')">☀️ Kekeringan</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi angin kencang')">💨 Angin</div>
+                    <div class="topic-chip" onclick="kirimTopik('mitigasi pergeseran tanah')">🏔️ Pergeseran</div>
+                </div>
+            </div>
+
+            <!-- Kontak darurat -->
+            <div class="sidebar-card">
+                <div class="sidebar-card-header">
+                    <span>📞</span>
+                    <h3>KONTAK DARURAT</h3>
+                </div>
+                <div class="kontak-list">
+                    <div class="kontak-item">
+                        <span class="nama">Call Center BPBD Kab. Bogor</span>
+                        <span class="nomor">0812-1010-9002</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Pusdatin BPBD Kab. Bogor</span>
+                        <span class="nomor">0851-7530-9567</span>
+                    </div>
+                    <div class="kontak-item darurat">
+                        <span class="nama">Bogor Siaga</span>
+                        <span class="nomor">112</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Damkar Kab. Bogor</span>
+                        <span class="nomor">021-8753547</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Pusdalops BNPB</span>
+                        <span class="nomor">0812-1237575</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Palang Merah Indonesia</span>
+                        <span class="nomor">021-4207051</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">BMKG</span>
+                        <span class="nomor">021-6546318</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">PVMBG</span>
+                        <span class="nomor">022-7272606</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Kementerian Sosial</span>
+                        <span class="nomor">0821-11300911</span>
+                    </div>
+                    <div class="kontak-item darurat">
+                        <span class="nama">Polisi</span>
+                        <span class="nomor">110</span>
+                    </div>
+                    <div class="kontak-item darurat">
+                        <span class="nama">Pemadam Kebakaran</span>
+                        <span class="nomor">113</span>
+                    </div>
+                    <div class="kontak-item darurat">
+                        <span class="nama">SAR / Basarnas</span>
+                        <span class="nomor">115</span>
+                    </div>
+                    <div class="kontak-item darurat">
+                        <span class="nama">Ambulans</span>
+                        <span class="nomor">118 / 119</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">PLN</span>
+                        <span class="nomor">123</span>
+                    </div>
+                    <div class="kontak-item">
+                        <span class="nama">Penerangan</span>
+                        <span class="nomor">108</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Info -->
+            <div class="sidebar-card">
+                <div class="sidebar-card-header">
+                    <span>📍</span>
+                    <h3>INFORMASI KANTOR</h3>
+                </div>
+                <div class="info-card-body">
+                    <div class="alamat">
+                        <span>🏢</span>
+                        <p>Jalan Tegar Beriman, Cibinong, Kabupaten Bogor</p>
+                    </div>
+                    <div class="alamat">
+                        <span>📧</span>
+                        <p>bpbd@bogorkab.go.id</p>
+                    </div>
+                    <div class="alamat">
+                        <span>🌐</span>
+                        <p>bpbd.bogorkab.go.id</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer">© 2025 BPBD Kabupaten Bogor · Sistem Chatbot Mitigasi Bencana</div>
+
+    <script>
+        const input = document.getElementById("userInput");
+        const messages = document.getElementById("chatMessages");
+
+        input.addEventListener("keypress", function(e) {
+            if (e.key === "Enter") kirimPesan();
+        });
+
+        function tambahBubble(teks, role) {
+            const bubble = document.createElement("div");
+            bubble.className = `bubble ${role}`;
+            bubble.innerHTML = teks
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\n/g, '<br>');
+            messages.appendChild(bubble);
+            messages.scrollTop = messages.scrollHeight;
+            return bubble;
+        }
+
+        function tambahSumber(sumber) {
+            if (!sumber) return;
+            const el = document.createElement("div");
+            el.className = "sumber";
+            el.innerHTML = "📚 <span>Sumber: " + sumber + "</span>";
+            messages.appendChild(el);
+            messages.scrollTop = messages.scrollHeight;
+        }
+
+        function tampilkanTyping() {
+            const typing = document.createElement("div");
+            typing.className = "typing";
+            typing.id = "typing";
+            typing.innerHTML = "<span></span><span></span><span></span>";
+            messages.appendChild(typing);
+            messages.scrollTop = messages.scrollHeight;
+        }
+
+        function hapusTyping() {
+            const typing = document.getElementById("typing");
+            if (typing) typing.remove();
+        }
+
+        function kirimTopik(topik) {
+            input.value = topik;
+            kirimPesan();
+        }
+
+        async function kirimPesan() {
+            const teks = input.value.trim();
+            if (!teks) return;
+
+            tambahBubble(teks, "user");
+            input.value = "";
+            tampilkanTyping();
+
+            try {
+                const response = await fetch("/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ pertanyaan: teks })
+                });
+
+                const data = await response.json();
+                hapusTyping();
+                tambahBubble(data.jawaban, "bot");
+                tambahSumber(data.sumber);
+            } catch (err) {
+                hapusTyping();
+                tambahBubble("Maaf, terjadi kesalahan. Coba lagi ya! 🙏", "bot");
+            }
+        }
+    </script>
+</body>
+</html>

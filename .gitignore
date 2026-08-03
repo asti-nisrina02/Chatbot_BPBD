@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables & secrets
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Database & cache
+cache_jawaban.db
+*.db
+*.sqlite3
+
+# Old/experimental dataset versions (keep only final in repo)
+jawaban_dataset_*OLD*.csv
+jawaban_dataset_*LAMA*.csv
+jawaban_dataset_*STALE*.csv
+jawaban_dataset_*NOCONTEXT*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

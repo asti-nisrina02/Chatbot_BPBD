@@ -1,0 +1,619 @@
+source_label,source,relationship,target_label,target
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Awan gelap
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Udara terasa panas
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Bangunan kokoh
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Papan reklame
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Angin Puting Beliung
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Infrastruktur
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Bogor
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Angin Kencang
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Rumah
+Dokumen,Angin_Kencang.pdf,MEMBAHAS,Entitas,Pohon besar
+Entitas,Awan gelap,MENYEBABKAN,Entitas,Angin Kencang
+Entitas,Udara terasa panas,MENYEBABKAN,Entitas,Angin Kencang
+Entitas,Papan reklame,MENJADI,Entitas,Bahaya
+Entitas,Angin Puting Beliung,KARAKTERISTIK,Entitas,Angin Kencang
+Entitas,Bogor,TERJADI_DI,Entitas,banjir
+Entitas,Angin Kencang,TERJADI_DI,Entitas,Bogor
+Entitas,Angin Kencang,BERDAMPAK_PADA,Entitas,Infrastruktur
+Entitas,Angin Kencang,BERDAMPAK_PADA,Entitas,Rumah
+Entitas,Angin Kencang,MEMBUTUHKAN,Entitas,Bangunan kokoh
+Entitas,Angin Kencang,MENCUGA,Entitas,Angin Puting Beliung
+Entitas,Rumah,MENGGUNAKAN,Entitas,Fondasi
+Entitas,Pohon besar,MENJADI,Entitas,Bahaya
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Bogor
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sumur gali
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,air
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,jamban
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,jalan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,dokumen
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sukarelawan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sisa-sisa kotoran
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,penampungan air
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,air minum
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,arus air
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,gedung/rumah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Tangerang
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,kawasan resapan air
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Saluran Pembuangan Air Limbah (SPAL)
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Bekasi
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,wilayah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,BPBD
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,erosi
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,berita
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,asuransi banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,curah hujan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,orang
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,zona rawan banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Depok
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,arus banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,kehidupan perkotaan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,lingkungan rumah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Surabaya
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,instrumen listrik
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,harta
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,saluran air
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,pihak yang berwenang
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,alih fungsi lahan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Siaga IV
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,hunian
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,bencana
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sarang nyamuk
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,bantuan perumahan/shelter
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Bandung
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Siaga I
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,bantaran sungai
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,rumah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,evakuasi
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,wilayah banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,fasilitas kesehatan terdekat
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,dampaknya
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,air banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sampah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,penggundulan hutan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,makanan
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,saluran air banjir
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Jakarta
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,sungai
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,pakaian
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,daerah yang lebih tinggi
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,bangunan rumah
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,perabot
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,rute evakuasi
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,listrik
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,PetaBencana.id
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,tempat tinggal
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,Pemberantasan Sarang Nyamuk (PSN)
+Dokumen,Banjir.pdf,MEMBAHAS,Entitas,tas siaga bencana
+Entitas,sumur gali,TERJADI_DI,Entitas,fasilitas kesehatan terdekat
+Entitas,banjir,TERJADI_DI,Entitas,wilayah
+Entitas,banjir,BERDAMPAK_PADA,Entitas,sisa-sisa kotoran
+Entitas,banjir,MENGHASILKAN,Entitas,arus air
+Entitas,banjir,MENGHARUSKAN,Entitas,langkah antisipasi
+Entitas,banjir,MENCIPTA,Entitas,Siaga IV
+Entitas,banjir,MENCIPTA,Entitas,Siaga I
+Entitas,banjir,MENGHANTAM,Entitas,kehidupan perkotaan
+Entitas,jalan,BERDAMPAK_PADA,Entitas,risiko kecelakaan
+Entitas,jalan,KEROPOS,Entitas,air banjir
+Entitas,dokumen,TERJADI_DI,Entitas,tempat yang aman
+Entitas,dokumen,MELIBATKAN,Entitas,simpan dokumen di tempat yang aman
+Entitas,dokumen,MENYIMPAN,Entitas,tempat yang aman
+Entitas,dokumen,MENDOKUMENTASIKAN,Entitas,harta
+Entitas,sukarelawan,MEMBUTUHKAN,Entitas,pihak yang berwenang
+Entitas,penampungan air,BERJAGA_JAGA,Entitas,kehabisan air bersih
+Entitas,Tangerang,TERJADI_DI,Entitas,banjir
+Entitas,kawasan resapan air,BERDAMPAK_PADA,Entitas,banjir
+Entitas,Bekasi,TERJADI_DI,Entitas,banjir
+Entitas,BPBD,DIKELOLA_OLEH,Entitas,informasi
+Entitas,erosi,BERDAMPAK_PADA,Entitas,sungai
+Entitas,berita,MENGENAI,Entitas,kondisi air
+Entitas,curah hujan,BERDAMPAK_PADA,Entitas,longsor
+Entitas,curah hujan,MENCIPTA,Entitas,banjir
+Entitas,orang,HARUS,Entitas,evakuasi
+Entitas,orang,HARUS,Entitas,amankan rumah
+Entitas,orang,HARUS,Entitas,tidak berjalan di arus air
+Entitas,orang,HARUS,Entitas,mematikan semua jaringan listrik
+Entitas,orang,HARUS,Entitas,cabut alat-alat yang masih tersambung dengan listrik
+Entitas,orang,MEMBUTUHKAN,Entitas,perawatan kesehatan
+Entitas,orang,MELIBATKAN,Entitas,jamban
+Entitas,orang,MELIBATKAN,Entitas,SPAL
+Entitas,Depok,TERJADI_DI,Entitas,banjir
+Entitas,Surabaya,TERJADI_DI,Entitas,banjir
+Entitas,instrumen listrik,MEMICU,Entitas,bahaya
+Entitas,harta,MEMBUTUHKAN,Entitas,catatan
+Entitas,harta,MEMBUTUHKAN,Entitas,membuat catatan
+Entitas,saluran air,MELINTASI,Entitas,arus banjir
+Entitas,pihak yang berwenang,PERINTAH,Entitas,kembali ke rumah
+Entitas,hunian,MELIBATKAN,Entitas,banjir
+Entitas,bencana,MENCIPTA,Entitas,air banjir
+Entitas,Bandung,TERJADI_DI,Entitas,banjir
+Entitas,bantaran sungai,MELIBATKAN,Entitas,banjir
+Entitas,rumah,TERJADI_DI,Entitas,zona rawan banjir
+Entitas,rumah,TERJADI_DI,Entitas,udara
+Entitas,rumah,BERDAMPAK_PADA,Entitas,tetap berada di bawah meja yang kuat
+Entitas,rumah,MEMBUTUHKAN,Entitas,catatan harta
+Entitas,rumah,MENGHARUSKAN,Entitas,mematikan air
+Entitas,rumah,MENGHARUSKAN,Entitas,mematikan listrik
+Entitas,rumah,MENGHARUSKAN,Entitas,mematikan gas
+Entitas,rumah,MELIBATKAN,Entitas,asuransi banjir
+Entitas,rumah,MELINDUNGI_DARI,Entitas,banjir
+Entitas,rumah,TERKENA,Entitas,bencana
+Entitas,rumah,MELINDUNGI,Entitas,kepala
+Entitas,evakuasi,TERJADI_DI,Entitas,tempat tinggi
+Entitas,evakuasi,MELIBATKAN,Entitas,daerah yang lebih tinggi
+Entitas,evakuasi,MELIBATKAN,Entitas,rute evakuasi
+Entitas,wilayah banjir,TERJADI_DI,Entitas,air banjir
+Entitas,air banjir,BERDAMPAK_PADA,Entitas,gedung/rumah
+Entitas,air banjir,MEMBUTUHKAN,Entitas,mencuci tangan
+Entitas,air banjir,MENGONTAMINASI,Entitas,makanan
+Entitas,sampah,MELIBATKAN,Entitas,banjir
+Entitas,penggundulan hutan,BERDAMPAK_PADA,Entitas,banjir
+Entitas,saluran air banjir,MELINTASI,Entitas,dampaknya
+Entitas,Jakarta,TERJADI_DI,Entitas,banjir
+Entitas,pakaian,MENGHARUSKAN,Entitas,melindungi tubuh
+Entitas,pakaian,MENDAPATKAN,Entitas,bantuan perumahan/shelter
+Entitas,bangunan rumah,MEMBUTUHKAN,Entitas,penguatan
+Entitas,bangunan rumah,MEMBUTUHKAN,Entitas,peninggian
+Entitas,bangunan rumah,MENGHINDARI,Entitas,zona rawan banjir
+Entitas,perabot,DITEMPATKAN,Entitas,tempat yang aman dari banjir
+Entitas,PetaBencana.id,MEMETAKKAN,Entitas,informasi
+Entitas,tempat tinggal,TERJADI_DI,Entitas,lingkungan rumah
+Entitas,tas siaga bencana,MENYEDIAKAN,Entitas,air minum
+Entitas,tas siaga bencana,MENYEDIAKAN,Entitas,makanan
+Entitas,barang yang lebih berharga,DITEMPATKAN,Entitas,bagian yang lebih tinggi di dalam rumah
+Entitas,mobil,MENGHARUSKAN,Entitas,berhentilah
+Entitas,mobil,MENYAPU,Entitas,arus banjir
+Entitas,area,BARU_SAJA_SURUT,Entitas,air banjir
+Entitas,PSN,MELIBATKAN,Entitas,sarang nyamuk
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,pakaian
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,baterai cadangan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,masker
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,hujan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,aliran lava
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,gunungapi
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Material Lontaran (Pijar)
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,makanan siap saji
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,bahaya lahar
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Aliran Lava
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,hujan abu
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,lontaran batu (pijar)
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Tingkat Status (Level)
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Gunung Berapi
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Awan Panas
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG)
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,abu vulkanik
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Danau Kawah
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,gas beracun
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Gunung Api
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Lava
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,hujan abu lebat
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,kacamata pelindung
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,www.vsi.esdm.go.id
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,musim hujan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,angin
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Magma
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,pihak berwenang
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Lontaran Batu (Pijar)
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,jalur evakuasi
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,skenario evakuasi
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Lahar Letusan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Gas Beracun
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,aliran lahar
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,KRB II
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,awan panas
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,PVMBG
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,lampu senter
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,obat-obatan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,rantambu
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,mesin kendaraan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Hujan Abu
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,lahar
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Gunung Salak
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,KRB I
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Kabupaten Bogor
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Gunung Gede
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,KRB III
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,Guguran Lava
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,guguran lava
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,uang tunai
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,dukungan logistik
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,atap rumah atau bangunan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,lokasi yang direkomendasikan
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,hujan lumpur panas
+Dokumen,Erupsi_Gunung_Api.pdf,MEMBAHAS,Entitas,shelter
+Entitas,masker,MELIBATKAN,Entitas,lubang pernafasan
+Entitas,hujan,TERJADI_DI,Entitas,wilayah aliran sungai
+Entitas,hujan,MEMBUTUHKAN,Entitas,waspada
+Entitas,aliran lava,TERJADI_DI,Entitas,daerah hulu
+Entitas,gunungapi,MEMICU,Entitas,abu vulkanik
+Entitas,Material Lontaran (Pijar),TERJADI_SAAT,Entitas,Letusan Magmatic
+Entitas,bahaya lahar,MELIBATKAN,Entitas,wilayah aliran sungai
+Entitas,lontaran batu (pijar),TERJADI_DI,Entitas,KRB I
+Entitas,lontaran batu (pijar),TERJADI_DI,Entitas,Kawasan rawan
+Entitas,Tingkat Status (Level),MENYEBUT,Entitas,Awas
+Entitas,Tingkat Status (Level),MENYEBUT,Entitas,Siaga
+Entitas,Tingkat Status (Level),MENYEBUT,Entitas,Siap
+Entitas,Tingkat Status (Level),MENYEBUT,Entitas,Normal
+Entitas,Gunung Berapi,MEMILIKI,Entitas,Danau Kawah
+Entitas,Awan Panas,MELIBATKAN,Entitas,Material Vulkanik Panas
+Entitas,Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG),DIKELOLA_OLEH,Entitas,Geologi
+Entitas,abu vulkanik,BERDAMPAK_PADA,Entitas,atap rumah atau bangunan
+Entitas,abu vulkanik,MENGHARUSKAN,Entitas,mengurangi terpapar
+Entitas,gas beracun,TERJADI_DI,Entitas,daerah hulu
+Entitas,Gunung Api,TERJADI_DI,Entitas,Kabupaten Bogor
+Entitas,Lava,ADALAH_BAGIAN_DARI,Entitas,Magma
+Entitas,hujan abu lebat,TERJADI_DI,Entitas,Kawasan rawan
+Entitas,www.vsi.esdm.go.id,MENYEDIAKAN,Entitas,Informasi terkait gunungapi
+Entitas,angin,MELIBATKAN,Entitas,kebakaran hutan
+Entitas,Magma,ADALAH_BAGIAN_DARI,Entitas,Awan Panas
+Entitas,pihak berwenang,MENGHASILKAN,Entitas,jalur evakuasi
+Entitas,pihak berwenang,MENGHASILKAN,Entitas,shelter
+Entitas,pihak berwenang,DIKELOLA_OLEH,Entitas,polisi
+Entitas,pihak berwenang,DIKELOLA_OLEH,Entitas,petugas penyelamat
+Entitas,pihak berwenang,DIKELOLA_OLEH,Entitas,pemerintah daerah
+Entitas,skenario evakuasi,MENGHARUSKAN,Entitas,dukungan logistik
+Entitas,Lahar Letusan,TERJADI_DI,Entitas,Gunung Berapi
+Entitas,Gas Beracun,MELIBATKAN,Entitas,Gas Vulkanik
+Entitas,aliran lahar,TERJADI_DI,Entitas,daerah hulu
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Aliran Lava
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Awan Panas
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Lontaran Batu (Pijar)
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Gas Beracun
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Guguran Lava
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Hujan Abu Lebat
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Hujan Lumpur Panas
+Entitas,KRB II,BERDAMPAK_PADA,Entitas,Aliran Lahar
+Entitas,awan panas,TERJADI_DI,Entitas,daerah hulu
+Entitas,PVMBG,MENYARANKAN,Entitas,siapkan masker dan kacamata pelindung
+Entitas,rantambu,MENYIMPAI,Entitas,ancaman erupsi gunungapi
+Entitas,mesin kendaraan,MENCEGAH,Entitas,merusak
+Entitas,Hujan Abu,TERJADI_SAAT,Entitas,Erupsi Gunung Api
+Entitas,Gunung Salak,TERJADI_DI,Entitas,Kabupaten Bogor
+Entitas,KRB I,BERDAMPAK_PADA,Entitas,hujan abu
+Entitas,KRB I,BERDAMPAK_PADA,Entitas,Gas Beracun
+Entitas,KRB I,BERDAMPAK_PADA,Entitas,lahar
+Entitas,KRB I,BERDAMPAK_PADA,Entitas,air dengan keasaman tinggi
+Entitas,Gunung Gede,TERJADI_DI,Entitas,Kabupaten Bogor
+Entitas,KRB III,TERJADI_DI,Entitas,Daerah Puncak dan Sekitar
+Entitas,KRB III,BERDAMPAK_PADA,Entitas,Aliran Lava
+Entitas,KRB III,BERDAMPAK_PADA,Entitas,Awan Panas
+Entitas,KRB III,BERDAMPAK_PADA,Entitas,Lontaran Batu (Pijar)
+Entitas,KRB III,BERDAMPAK_PADA,Entitas,Gas Beracun
+Entitas,KRB III,BERDAMPAK_PADA,Entitas,Guguran Lava
+Entitas,guguran lava,TERJADI_DI,Entitas,daerah hulu
+Entitas,dukungan logistik,MELIBATKAN,Entitas,"makanan siap saji, lampu senter, baterai cadangan, uang tunai, obat-obatan"
+Entitas,hujan lumpur panas,TERJADI_DI,Entitas,Kawasan rawan
+Entitas,awanan panas,MEMICU,Entitas,perluasan awan panas
+Entitas,material jatuhan berupa hujan abu lebat,TERJADI_DI,Entitas,KRB I
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Rumah
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,air
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,dokumen
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,harta
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,rumah
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,mobil
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Fondasi
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,petugas berwenang
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,foto
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Daerah Rawan Gempa Bumi
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,kebakaran
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,lift
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,persimpangan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,pintu
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Jalan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,kepemilikan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,elevator
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,bangunan tinggi
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,instalasi listrik
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,bukit
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,tiang
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Kepemilikan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,helm
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,jendela kaca
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Pemerintah
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,api
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Kedalaman Gempa
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Jembatan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,benda-benda berbahaya
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,pengelola bangunan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,longsor
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Bangunan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,gedung
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,meja
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,tsunami
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,tebing
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Potensi Tsunami
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,tangga darurat
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,reruntuhan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Harta
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,petugas keamanan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,gempa bumi susulan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,pohon
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Titik Pusat Gempa Bumi
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,bangunan
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,meja yang kuat
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Parameter Gempa Bumi
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,BMKG
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,bantal
+Dokumen,Gempa_Bumi.pdf,MEMBAHAS,Entitas,Gempa Bumi
+Entitas,Fondasi,MEMBUTUHKAN,Entitas,Bangunan
+Entitas,petugas berwenang,MEMERINTAHKAN,Entitas,ikuti instruksi
+Entitas,foto,MELIBATKAN,Entitas,dokumen
+Entitas,foto,MELIBATKAN,Entitas,mendokumentasikan harta
+Entitas,kebakaran,MENCEGAH,Entitas,peralatan yang menggunakan listrik
+Entitas,lift,MENGHARUSKAN,Entitas,tidak digunakan
+Entitas,pintu,BERDAMPAK_PADA,Entitas,kepala
+Entitas,elevator,MENGHARUSKAN,Entitas,tekan semua tombol
+Entitas,helm,BERDAMPAK_PADA,Entitas,kepala
+Entitas,jendela kaca,BERDAMPAK_PADA,Entitas,benda-benda yang mungkin jatuh
+Entitas,Pemerintah,MENGHURATKAN,Entitas,Aturan Penggunaan Lahan
+Entitas,api,BERDAMPAK_PADA,Entitas,rumah
+Entitas,api,BERDAMPAK_PADA,Entitas,hutan
+Entitas,pengelola bangunan,MENGHARUSKAN,Entitas,panggilan
+Entitas,Bangunan,MEMBUTUHKAN,Entitas,Renovasi
+Entitas,gedung,BERDAMPAK_PADA,Entitas,roboh
+Entitas,gedung,BERDAMPAK_PADA,Entitas,hindari berada di tempat terbuka
+Entitas,meja,BERDAMPAK_PADA,Entitas,benda-benda yang mungkin jatuh
+Entitas,tsunami,MEMBUTUHKAN,Entitas,evakuasi
+Entitas,tebing,BERDAMPAK_PADA,Entitas,hindari daerah yang rawan longsor
+Entitas,tangga darurat,MENGHARUSKAN,Entitas,evakuasi
+Entitas,Harta,MENGELOLA,Entitas,Kepemilikan
+Entitas,petugas keamanan,IKUTI,Entitas,instruksi evakuasi
+Entitas,gempa bumi susulan,BERDAMPAK_PADA,Entitas,tetap waspada
+Entitas,pohon,BERDAMPAK_PADA,Entitas,langit terbuka
+Entitas,pohon,MENDERITAKAN_PADA,Entitas,longsor
+Entitas,bangunan,TERJADI_DI,Entitas,sudut bangunan
+Entitas,BMKG,MENYEBUT,Entitas,Informasi Gempa Bumi
+Entitas,bantal,BERDAMPAK_PADA,Entitas,kepala
+Entitas,Gempa Bumi,TERJADI_DI,Entitas,Daerah Rawan Gempa Bumi
+Entitas,Gempa Bumi,MENCIPTA,Entitas,Kerusakan
+Entitas,Gempa Bumi,MENGHANCURKAN,Entitas,Jalan
+Entitas,Gempa Bumi,MENGHANCURKAN,Entitas,Jembatan
+Entitas,Gempa Bumi,MENGHANCURKAN,Entitas,Bangunan
+Entitas,Informasi Gempa Bumi,MELIBATKAN,Entitas,Kedalaman Gempa
+Entitas,Informasi Gempa Bumi,MELIBATKAN,Entitas,Potensi Tsunami
+Entitas,Informasi Gempa Bumi,MELIBATKAN,Entitas,Titik Pusat Gempa Bumi
+Entitas,Informasi Gempa Bumi,MELIBATKAN,Entitas,Parameter Gempa Bumi
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,harta
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,rumah
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,masker
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,angin
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,kepemilikan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,api
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,bangunan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,rambu
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,kain
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,rumput
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,partikulat (PM10)
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,AC
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,kebakaran hutan dan lahan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,kebakaran hutan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,perlindungan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,cuaca
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,tangan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,pihak terkait
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,hutan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,puing-puing
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,lahan
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,masker N95
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,pusat
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,Posko Kebakaran
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,karhutla
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,warga
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,wajah
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,ekosistem
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,udara
+Dokumen,Karhutla.pdf,MEMBAHAS,Entitas,angin kencang
+Entitas,rambu,MENUNJUKKAN,Entitas,ancaman atau rawan kebakaran hutan
+Entitas,kain,MELIBATKAN,Entitas,lubang pernafasan
+Entitas,partikulat (PM10),MEMILIKI,Entitas,ukuran
+Entitas,kebakaran hutan dan lahan,MENCIPTA,Entitas,kerusakan
+Entitas,cuaca,MEMICU,Entitas,kebakaran hutan
+Entitas,tangan,MEMBUTUHKAN,Entitas,cuci tangan
+Entitas,hutan,MENDERITAKAN_PADA,Entitas,longsor
+Entitas,masker N95,MENGHARUSKAN,Entitas,perlindungan lebih baik
+Entitas,Posko Kebakaran,DIKELOLA_OLEH,Entitas,pihak terkait
+Entitas,karhutla,TERJADI_DI,Entitas,lahan
+Entitas,karhutla,BERDAMPAK_PADA,Entitas,partikulat (PM10)
+Entitas,warga,MEMBUTUHKAN,Entitas,pengetahuan tentang hutan
+Entitas,warga,MEMBUTUHKAN,Entitas,api sudah mati
+Entitas,warga,MEMBUTUHKAN,Entitas,membersihkan area
+Entitas,warga,MENCEGAH,Entitas,rumput
+Entitas,warga,MENCEGAH,Entitas,puing-puing
+Entitas,warga,MELAKUKAN,Entitas,membakar rumput
+Entitas,warga,MENGHARUSKAN,Entitas,bangunan
+Entitas,wajah,MEMBUTUHKAN,Entitas,cuci wajah
+Entitas,angin kencang,MENDORONG,Entitas,penyebaran api
+Entitas,ukuran,TIDAK_LEBIH_DARI,Entitas,10 mikron
+Entitas,NAB PM10,BERDASARKAN,Entitas,150 µgram/m3
+Entitas,penyebaran api,BERDAMPAK_PADA,Entitas,ekosistem
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Air hujan
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Radio
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Media online
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Air bersih
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Mulsa
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Pihak yang berwenang
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Televisi
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Sumber informasi resmi pemerintah
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Penyakit
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Waduk/embung
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Tanaman budidaya
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Sumber/mata air
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Gulma
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Sumur resapan/biopori
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Kekeringan
+Dokumen,Kekeringan.pdf,MEMBAHAS,Entitas,Hujan buatan/TMC
+Entitas,Air hujan,MENGUMPULKAN,Entitas,Waduk/embung
+Entitas,Radio,MENYEDIAKAN,Entitas,Informasi terkini
+Entitas,Mulsa,MENGURANGI,Entitas,Penyakit
+Entitas,Mulsa,MENGURANGI,Entitas,Gulma
+Entitas,Pihak yang berwenang,MENYEDIAKAN,Entitas,Air bersih
+Entitas,Tanaman budidaya,MEMBUTUHKAN,Entitas,Mulsa
+Entitas,Sumber/mata air,MENGHILANGKAN,Entitas,Air hujan
+Entitas,Sumur resapan/biopori,MEMBUTUHKAN,Entitas,Waduk/embung
+Entitas,Kekeringan,MENCIPTA,Entitas,Kekeringan
+Entitas,Hujan buatan/TMC,MELIBATKAN,Entitas,Radio
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Infrastruktur
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,jalan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,dokumen
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,harta
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,pihak berwenang
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,foto
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Jalan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,kepemilikan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Jembatan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Bangunan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Vegetasi
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Masyarakat
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,polisi
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Pra Bencana
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Injeksi Grouting
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,desain bangunan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Pembatas Tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,petugas penyelamat
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,sistem pemantauan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Teras
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Curah Hujan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,pergeseran tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,evaluasi tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Pergeseran Tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,pemerintah daerah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Geosensor
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,regulasi setempat
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Tekanan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Tanah Longsor
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,area berbahaya
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,peraturan bangunan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,struktur bangunan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,kondisi tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Retensi Tanaman
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,area yang rawan pergeseran tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,konstruksi bangunan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,kendaraan
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Drainase
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Dinding Penahan Tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Sistem Drainase
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,Perkuatan Tanah
+Dokumen,Pergeseran_Tanah.pdf,MEMBAHAS,Entitas,ahli geoteknik
+Entitas,Pra Bencana,TERJADI_DI,Entitas,Pergeseran Tanah
+Entitas,desain bangunan,MEMPERHITUNGKAN,Entitas,faktor risiko pergeseran tanah
+Entitas,Pembatas Tanah,MENCEGAH,Entitas,Pergeseran Tanah
+Entitas,sistem pemantauan,MENGHARUSKAN,Entitas,memantau perubahan kondisi tanah
+Entitas,Teras,MENCEGAH,Entitas,Pergeseran Tanah
+Entitas,Curah Hujan,MENGHASILKAN,Entitas,Penumpukan Air
+Entitas,Curah Hujan,MEMBUTUHKAN,Entitas,Tindakan Pencegahan
+Entitas,Curah Hujan,MENCUGA,Entitas,TANAH LONGSOR
+Entitas,pergeseran tanah,TERJADI_DI,Entitas,area berbahaya
+Entitas,pergeseran tanah,MENCEGAH,Entitas,tinggal di area yang rawan pergeseran tanah
+Entitas,pergeseran tanah,MENGHARUSKAN,Entitas,evakuasi dini
+Entitas,pergeseran tanah,MENGHARUSKAN,Entitas,memeriksa regulasi setempat
+Entitas,pergeseran tanah,MELIBATKAN,Entitas,bantuan
+Entitas,evaluasi tanah,MELAKUKAN,Entitas,penilaian menyeluruh terhadap kondisi tanah
+Entitas,Pergeseran Tanah,BERDAMPAK_PADA,Entitas,Infrastruktur
+Entitas,Pergeseran Tanah,BERDAMPAK_PADA,Entitas,Jalan
+Entitas,Pergeseran Tanah,BERDAMPAK_PADA,Entitas,Jembatan
+Entitas,Pergeseran Tanah,BERDAMPAK_PADA,Entitas,Bangunan
+Entitas,Pergeseran Tanah,BERDAMPAK_PADA,Entitas,Masyarakat
+Entitas,Geosensor,MEMANTU,Entitas,Pergeseran Tanah
+Entitas,kondisi tanah,BERDAMPAK_PADA,Entitas,struktur bangunan
+Entitas,Retensi Tanaman,MELIBATKAN,Entitas,Vegetasi
+Entitas,kendaraan,TERJADI_DI,Entitas,daerah yang dapat terkena pergeseran tanah
+Entitas,Drainase,MENJAGA,Entitas,Lereng Permukaan
+Entitas,Drainase,MEMICU,Entitas,Pergeseran Tanah
+Entitas,Sistem Drainase,MEMICU,Entitas,Pergeseran Tanah
+Entitas,Perkuatan Tanah,MELIBATKAN,Entitas,Injeksi Grouting
+Entitas,Perkuatan Tanah,MELIBATKAN,Entitas,Dinding Penahan Tanah
+Entitas,ahli geoteknik,MENYARANKAN,Entitas,rekomendasi dan saran
+Entitas,Penumpukan Air,MELEMAHKAN,Entitas,Kestabilan Tanah
+Entitas,rekomendasi dan saran,MEMBERI,Entitas,panduan tentang tindakan pencegahan atau rekayasa tanah
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Unsur Pelaksana
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Bidang Pencegahan dan Kesiapsiagaan
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Mitigasi bencana
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Tahap prabencana
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Saat tanggap darurat
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Pasca bencana
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Perbup Bogor No. 61 Tahun 2023
+Dokumen,produk_hukum_mitigasi_V1.pdf,MEMBAHAS,Entitas,Bidang Rehabilitasi dan Rekonstruksi
+Entitas,Unsur Pelaksana,MELAKSANAKAN,Entitas,Mitigasi bencana
+Entitas,Bidang Pencegahan dan Kesiapsiagaan,MEMBANTU,Entitas,Kepala Pelaksana
+Entitas,Bidang Pencegahan dan Kesiapsiagaan,MELAKSANAKAN,Entitas,Pengecoordinasian
+Entitas,Bidang Pencegahan dan Kesiapsiagaan,MELAKSANAKAN,Entitas,Mitigasi
+Entitas,Mitigasi bencana,MERUPAKAN,Entitas,Tahap prabencana
+Entitas,Perbup Bogor No. 61 Tahun 2023,MENYATAKAN,Entitas,Unsur Pelaksana
+Entitas,Bidang Rehabilitasi dan Rekonstruksi,MELAKSANAKAN,Entitas,Penyusunan pengkajian mitigasi
+Entitas,Penyusunan pengkajian mitigasi,TERJADI_DI,Entitas,Saat dan pasca bencana
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,curah hujan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Fondasi
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,pohon
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,hutan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Curah Hujan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Drainase
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,tanaman
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Jangkar
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Lereng Permukaan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Tutupan Vegetasi
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,zona evakuasi
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Pemukiman
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,tanah gerak
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Daerah Rawan Bencana
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,TANAH LONGSOR
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Pilling
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,runtuhan batuan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Getaran
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Rumput
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,selokan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Tanaman
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Tanah yang Kurang Padat
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Lereng Terjal
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Air Tanah
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,wilayah longsor
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,bahaya liquefaction
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Pengikisan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,daerah tebing
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,air hujan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,rekahan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,bangunan permanen
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,lereng
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,kawasan yang gersang
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Fasilitas Utama
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Perumahan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Material Longsor
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Tanggul Penahan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,pondasi tiang pancang
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Bangunan Penahan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Terasering
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,tanah yang tidak stabil
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,infeksi cairan
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Tanah
+Dokumen,Tanah_Longsor.pdf,MEMBAHAS,Entitas,Sistem Peringatan Dini Longsor
+Entitas,tanaman,MENGHARUSKAN,Entitas,akar kuat
+Entitas,Jangkar,MEMICU,Entitas,TANAH LONGSOR
+Entitas,Lereng Permukaan,MEMBUTUHKAN,Entitas,Drainase
+Entitas,Tutupan Vegetasi,BERDAMPAK_PADA,Entitas,TANAH LONGSOR
+Entitas,zona evakuasi,TERJADI_DI,Entitas,wilayah
+Entitas,Pemukiman,MENGHARUSKAN,Entitas,Fasilitas Utama
+Entitas,Daerah Rawan Bencana,MENGHARUSKAN,Entitas,Pemukiman
+Entitas,Pilling,MEMICU,Entitas,TANAH LONGSOR
+Entitas,runtuhan batuan,MEMICU,Entitas,bahaya liquefaction
+Entitas,Getaran,MENCUGA,Entitas,TANAH LONGSOR
+Entitas,Rumput,MEMBUTUHKAN,Entitas,Tanaman
+Entitas,selokan,MEMBUTUHKAN,Entitas,mengalirkan air hujan
+Entitas,Tanaman,MEMBUTUHKAN,Entitas,Drainase
+Entitas,Tanah yang Kurang Padat,MENCUGA,Entitas,TANAH LONGSOR
+Entitas,Lereng Terjal,MENCUGA,Entitas,TANAH LONGSOR
+Entitas,Air Tanah,MEMBUTUHKAN,Entitas,Drainase
+Entitas,wilayah longsor,BERDAMPAK_PADA,Entitas,kondisi tanah yang labil
+Entitas,Pengikisan,MENCUGA,Entitas,TANAH LONGSOR
+Entitas,daerah tebing,MELIBATKAN,Entitas,tanah yang tidak stabil
+Entitas,rekahan,MENCEGAH,Entitas,air masuk
+Entitas,bangunan permanen,MENDERITAKAN_PADA,Entitas,daerah tebing
+Entitas,lereng,BERDAMPAK_PADA,Entitas,rekahan
+Entitas,kawasan yang gersang,MENGHARUSKAN,Entitas,tanaman
+Entitas,Perumahan,MELIBATKAN,Entitas,Pemadatan Tanah
+Entitas,Material Longsor,MENIMBUN,Entitas,Material Longsor
+Entitas,Tanggul Penahan,MENCEGAH,Entitas,Tanah Longsor
+Entitas,pondasi tiang pancang,MENCEGAH,Entitas,bahaya liquefaction
+Entitas,Bangunan Penahan,MEMICU,Entitas,TANAH LONGSOR
+Entitas,Terasering,MEMBUTUHKAN,Entitas,Drainase
+Entitas,Tanah,MELIBATKAN,Entitas,Pemadatan Tanah
+Entitas,Sistem Peringatan Dini Longsor,TERJADI_DI,Entitas,beberapa wilayah

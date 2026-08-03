@@ -1,0 +1,299 @@
+# Copy hasil ini ke pertanyaan_dataset sebagai reference
+
+# Q: Apa yang harus dilakukan saat terjadi banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Bagaimana cara mempersiapkan diri sebelum banjir terjadi?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa yang dilakukan pasca bencana banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa itu banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa penyebab banjir di Kabupaten Bogor?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa yang dimaksud dengan daerah rawan banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Bagaimana cara mencegah banjir di lingkungan sekitar?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa itu sistem peringatan dini banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa yang harus dilakukan saat banjir mulai datang?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apakah boleh menerobos banjir dengan kendaraan?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa bahaya yang mengintai saat banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Bagaimana cara menyelamatkan diri jika terjebak banjir di dalam rumah?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Apa yang harus dilakukan setelah banjir surut?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Penyakit apa yang sering muncul setelah banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Bagaimana cara memastikan air minum aman setelah banjir?
+# Reference: '• banjir berkaitan dengan: wilayah, zona rawan banjir, sisa-sisa kotoran, arus air, langkah antisipasi\n• zona rawan banjir berkaitan dengan: bantuan perumahan/shelter, fasilitas kesehatan terdekat\n• wilayah banjir berkaitan dengan: air banjir\n• air banjir berkaitan dengan: gedung/rumah, mencuci tangan, makanan\n• saluran air banjir berkaitan dengan: dampaknya'
+
+# Q: Bagaimana cara mitigasi tanah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa yang harus dilakukan saat terjadi tanah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa yang dilakukan setelah tanah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa itu tanah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Mengapa Kabupaten Bogor sangat rawan longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa tanda-tanda akan terjadi tanah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa upaya pencegahan longsor yang bisa dilakukan masyarakat?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Kapan waktu paling rawan terjadinya longsor di Bogor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Ke arah mana harus berlari saat ada longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa yang harus dilakukan jika tertimbun longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Bagaimana cara menolong korban longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa yang harus diwaspadai setelah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apakah warga boleh kembali ke rumah setelah longsor?
+# Reference: '• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa langkah evakuasi saat gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa yang harus dilakukan setelah gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Bagaimana cara mempersiapkan diri sebelum gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa itu gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa penyebab gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa saja yang harus ada dalam tas darurat gempa?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apakah Kabupaten Bogor rawan gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa yang harus dilakukan saat gempa bumi terjadi di dalam ruangan?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa yang harus dilakukan saat gempa bumi terjadi di luar ruangan?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa yang tidak boleh dilakukan saat gempa bumi?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa yang harus dilakukan setelah gempa bumi berhenti?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Apa itu gempa susulan?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Bagaimana cara membantu korban gempa yang terluka?
+# Reference: '• gempa bumi susulan berkaitan dengan: tetap waspada\n• Gempa Bumi berkaitan dengan: Daerah Rawan Gempa Bumi, Kerusakan, Jalan, Jembatan, Bangunan\n• Informasi Gempa Bumi berkaitan dengan: Kedalaman Gempa, Potensi Tsunami, Titik Pusat Gempa Bumi, Parameter Gempa Bumi'
+
+# Q: Bagaimana cara mempersiapkan diri sebelum bencana angin kencang?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa dampak angin kencang terhadap infrastruktur?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa yang harus dilakukan saat terjadi angin kencang?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa itu angin puting beliung?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Kapan angin puting beliung sering terjadi di Bogor?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa tanda-tanda akan terjadi angin puting beliung?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Bagaimana cara mempersiapkan rumah agar tahan angin puting beliung?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa yang harus dilakukan saat terjadi angin puting beliung?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apa yang harus dilakukan setelah angin puting beliung?
+# Reference: '• Angin Puting Beliung berkaitan dengan: Angin Kencang, Bangunan kokoh, Bangunan kokoh, Infrastruktur, Rumah\n• Angin Kencang berkaitan dengan: Bogor, Infrastruktur, Rumah, Bangunan kokoh, Angin Puting Beliung\n• angin berkaitan dengan: kebakaran hutan\n• angin kencang berkaitan dengan: penyebaran api'
+
+# Q: Apakah puting beliung bisa terjadi lagi di lokasi yang sama?
+# Reference: 'Tidak ada konteks ditemukan.'
+
+# Q: Apa yang dilakukan pasca bencana erupsi gunung api?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa bahaya abu vulkanik saat erupsi gunung api?
+# Reference: '• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• hujan abu lebat berkaitan dengan: Kawasan rawan\n• Hujan Abu berkaitan dengan: Erupsi Gunung Api\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor\n• material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I'
+
+# Q: Bagaimana cara mitigasi erupsi gunung api?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Gunung berapi apa saja yang ada di sekitar Kabupaten Bogor?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa itu status gunung berapi dan apa tingkatannya?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa tanda-tanda gunung berapi akan meletus?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Bagaimana cara mempersiapkan diri jika tinggal dekat gunung berapi?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa yang harus dilakukan saat gunung berapi meletus?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa yang harus dilakukan saat terjadi hujan abu vulkanik?
+# Reference: '• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar\n• hujan abu lebat berkaitan dengan: Kawasan rawan\n• Hujan Abu berkaitan dengan: Erupsi Gunung Api\n• material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I'
+
+# Q: Bagaimana cara melindungi pernapasan dari abu vulkanik?
+# Reference: '• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar\n• hujan abu lebat berkaitan dengan: Kawasan rawan\n• Hujan Abu berkaitan dengan: Erupsi Gunung Api\n• material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I'
+
+# Q: Apakah abu vulkanik berbahaya bagi kesehatan?
+# Reference: '• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• abu vulkanik berkaitan dengan: atap rumah atau bangunan, mengurangi terpapar\n• hujan abu lebat berkaitan dengan: Kawasan rawan\n• Hujan Abu berkaitan dengan: Erupsi Gunung Api\n• material jatuhan berupa hujan abu lebat berkaitan dengan: KRB I'
+
+# Q: Kapan warga boleh kembali ke rumah setelah gunung meletus?
+# Reference: '• gunungapi berkaitan dengan: abu vulkanik\n• Gunung Berapi berkaitan dengan: Danau Kawah\n• Gunung Api berkaitan dengan: Kabupaten Bogor\n• Gunung Salak berkaitan dengan: Kabupaten Bogor\n• Gunung Gede berkaitan dengan: Kabupaten Bogor'
+
+# Q: Apa itu lahar dingin dan kapan biasanya terjadi?
+# Reference: 'Tidak ada konteks ditemukan.'
+
+# Q: Apa yang harus dilakukan saat terjadi kebakaran hutan dan lahan?
+# Reference: '• Pemadam Kebakaran berkaitan dengan: Pusdatin BPBD Kab. Bogor, BPBD Kab. Bogor\n• kebakaran berkaitan dengan: peralatan yang menggunakan listrik\n• kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin\n• Posko Kebakaran berkaitan dengan: pihak terkait'
+
+# Q: Bagaimana cara mencegah penyebaran api saat karhutla?
+# Reference: '• karhutla berkaitan dengan: lahan, partikulat (PM10)'
+
+# Q: Apa perlengkapan yang dibutuhkan saat terjadi karhutla?
+# Reference: '• karhutla berkaitan dengan: lahan, partikulat (PM10)'
+
+# Q: Apa penyebab utama kebakaran hutan dan lahan?
+# Reference: '• Pemadam Kebakaran berkaitan dengan: Pusdatin BPBD Kab. Bogor, BPBD Kab. Bogor\n• kebakaran berkaitan dengan: peralatan yang menggunakan listrik\n• kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin\n• Posko Kebakaran berkaitan dengan: pihak terkait'
+
+# Q: Bagaimana cara melindungi diri dari asap kebakaran hutan?
+# Reference: '• Pemadam Kebakaran berkaitan dengan: Pusdatin BPBD Kab. Bogor, BPBD Kab. Bogor\n• kebakaran berkaitan dengan: peralatan yang menggunakan listrik\n• kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin\n• Posko Kebakaran berkaitan dengan: pihak terkait'
+
+# Q: Apa dampak karhutla bagi kesehatan masyarakat?
+# Reference: '• karhutla berkaitan dengan: lahan, partikulat (PM10)'
+
+# Q: Bagaimana cara melaporkan kebakaran hutan yang ditemukan?
+# Reference: '• Pemadam Kebakaran berkaitan dengan: Pusdatin BPBD Kab. Bogor, BPBD Kab. Bogor\n• kebakaran berkaitan dengan: peralatan yang menggunakan listrik\n• kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin\n• Posko Kebakaran berkaitan dengan: pihak terkait'
+
+# Q: Apa yang harus dilakukan setelah kebakaran hutan padam?
+# Reference: '• Pemadam Kebakaran berkaitan dengan: Pusdatin BPBD Kab. Bogor, BPBD Kab. Bogor\n• kebakaran berkaitan dengan: peralatan yang menggunakan listrik\n• kebakaran hutan dan lahan berkaitan dengan: hutan, partikulat (PM10), kerusakan, perlindungan, angin\n• Posko Kebakaran berkaitan dengan: pihak terkait'
+
+# Q: Bagaimana cara menghadapi bencana kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Apa sumber air yang bisa dimanfaatkan saat kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Bagaimana cara mendapatkan informasi saat terjadi kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Apa dampak bencana kekeringan bagi masyarakat?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Bagaimana cara menghemat air saat kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Apa yang harus dilakukan petani saat musim kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Bagaimana cara mencegah kekeringan di tingkat rumah tangga?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Apa yang dilakukan pemerintah saat terjadi bencana kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Apa tanda-tanda awal terjadinya kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Bagaimana cara memanen air hujan untuk menghadapi kekeringan?
+# Reference: '• Kekeringan berkaitan dengan: Penyakit, Kekeringan, Air bersih, Waduk/embung, Sumur resapan/biopori'
+
+# Q: Bagaimana cara mitigasi pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa dampak pergeseran tanah terhadap infrastruktur?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa yang harus dilakukan saat terjadi pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa itu pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa tanda-tanda terjadinya pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apakah pergeseran tanah bisa berkembang menjadi longsor?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat\n• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Bagaimana cara memantau pergeseran tanah di sekitar rumah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa yang dilakukan BPBD saat terjadi pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Bagaimana cara memperkuat bangunan di daerah rawan pergeseran tanah?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat'
+
+# Q: Apa perbedaan pergeseran tanah dan tanah longsor?
+# Reference: '• pergeseran tanah berkaitan dengan: area berbahaya, evakuasi dini, memeriksa regulasi setempat, bantuan, tinggal di area yang rawan pergeseran tanah\n• Pergeseran Tanah berkaitan dengan: Infrastruktur, Jalan, Jembatan, Bangunan, Masyarakat\n• Tanah Longsor berkaitan dengan: Daerah Rawan Bencana, runtuhan batuan, Fondasi, Drainase, Jangkar\n• wilayah longsor berkaitan dengan: kondisi tanah yang labil\n• Material Longsor berkaitan dengan: Material Longsor\n• Sistem Peringatan Dini Longsor berkaitan dengan: beberapa wilayah, waspada, Tanah Longsor, zona evakuasi'
+
+# Q: Apa itu mitigasi bencana?
+# Reference: '• Kesiapsiagaan Bencana berkaitan dengan: Keselamatan\n• posko layanan bencana berkaitan dengan: pelatihan penyelamatan diri, bencana\n• Bencana Alam berkaitan dengan: penyandang disabilitas, kondisi fisik dan mental\n• Latihan Mitigasi berkaitan dengan: Partisipasi\n• Bencana berkaitan dengan: korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dampak psikologis, peristiwa atau rangkaian peristiwa\n• Bencana alam berkaitan dengan: gempa bumi, letusan gunung berapi, angin topan, tanah longsor, kekeringan\n• Bencana non-alam berkaitan dengan: kebakaran hutan/lahan, kecelakan transportasi, kegagalan konstruksi/teknologi, dampak industri, ledakan\n• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• bencana alam berkaitan dengan: penyandang disabilitas, kondisi\n• bencana berkaitan dengan: lokasi bencana, air banjir\n• PetaBencana.id berkaitan dengan: informasi\n• tas siaga bencana berkaitan dengan: air minum, makanan\n• Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi\n• Pra Bencana berkaitan dengan: Pergeseran Tanah\n• Mitigasi bencana berkaitan dengan: Tahap prabencana\n• Penyusunan pengkajian mitigasi berkaitan dengan: Saat dan pasca bencana\n• Daerah Rawan Bencana berkaitan dengan: Pemukiman'
+
+# Q: Apa peran BPBD dalam penanggulangan bencana?
+# Reference: '• Kesiapsiagaan Bencana berkaitan dengan: Keselamatan\n• posko layanan bencana berkaitan dengan: pelatihan penyelamatan diri, bencana\n• Bencana Alam berkaitan dengan: penyandang disabilitas, kondisi fisik dan mental\n• Bencana berkaitan dengan: korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dampak psikologis, peristiwa atau rangkaian peristiwa\n• Bencana alam berkaitan dengan: gempa bumi, letusan gunung berapi, angin topan, tanah longsor, kekeringan\n• Bencana non-alam berkaitan dengan: kebakaran hutan/lahan, kecelakan transportasi, kegagalan konstruksi/teknologi, dampak industri, ledakan\n• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• bencana alam berkaitan dengan: penyandang disabilitas, kondisi\n• bencana berkaitan dengan: lokasi bencana, air banjir\n• PetaBencana.id berkaitan dengan: informasi\n• tas siaga bencana berkaitan dengan: air minum, makanan\n• Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi\n• Pra Bencana berkaitan dengan: Pergeseran Tanah\n• Mitigasi bencana berkaitan dengan: Tahap prabencana\n• Daerah Rawan Bencana berkaitan dengan: Pemukiman'
+
+# Q: Apa yang dimaksud dengan kesiapsiagaan bencana?
+# Reference: '• Rencana Kesiapsiagaan berkaitan dengan: TSB, Tiga upaya utama\n• Kesiapsiagaan Bencana berkaitan dengan: Keselamatan\n• posko layanan bencana berkaitan dengan: pelatihan penyelamatan diri, bencana\n• Bencana Alam berkaitan dengan: penyandang disabilitas, kondisi fisik dan mental\n• Bidang Pencegahan & Kesiapsiagaan berkaitan dengan: Kegiatan Mitigasi\n• Bencana berkaitan dengan: korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dampak psikologis, peristiwa atau rangkaian peristiwa\n• Bencana alam berkaitan dengan: gempa bumi, letusan gunung berapi, angin topan, tanah longsor, kekeringan\n• Bencana non-alam berkaitan dengan: kebakaran hutan/lahan, kecelakan transportasi, kegagalan konstruksi/teknologi, dampak industri, ledakan\n• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• Kesiapsiagaan berkaitan dengan: Bencana, Rute Evakuasi, Latihan Gladi Simulasi, Nomor Kontak Penting, Analisis Ancaman\n• bencana alam berkaitan dengan: penyandang disabilitas, kondisi\n• bencana berkaitan dengan: lokasi bencana, air banjir\n• PetaBencana.id berkaitan dengan: informasi\n• tas siaga bencana berkaitan dengan: air minum, makanan\n• Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi\n• Pra Bencana berkaitan dengan: Pergeseran Tanah\n• Bidang Pencegahan dan Kesiapsiagaan berkaitan dengan: Pengecoordinasian, Mitigasi, Kepala Pelaksana\n• Mitigasi bencana berkaitan dengan: Tahap prabencana\n• Daerah Rawan Bencana berkaitan dengan: Pemukiman'
+
+# Q: Berapa nomor darurat yang harus dihubungi saat bencana?
+# Reference: '• Kesiapsiagaan Bencana berkaitan dengan: Keselamatan\n• tas darurat berkaitan dengan: alat-alat kebutuhan hewan, alat-alat kebutuhan hewan\n• posko layanan bencana berkaitan dengan: pelatihan penyelamatan diri, bencana\n• Bencana Alam berkaitan dengan: penyandang disabilitas, kondisi fisik dan mental\n• Bidang Kedaruratan & Logistik berkaitan dengan: Asesment\n• Bencana berkaitan dengan: korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dampak psikologis, peristiwa atau rangkaian peristiwa\n• Bencana alam berkaitan dengan: gempa bumi, letusan gunung berapi, angin topan, tanah longsor, kekeringan\n• Bencana non-alam berkaitan dengan: kebakaran hutan/lahan, kecelakan transportasi, kegagalan konstruksi/teknologi, dampak industri, ledakan\n• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• bencana alam berkaitan dengan: penyandang disabilitas, kondisi\n• bencana berkaitan dengan: lokasi bencana, air banjir\n• PetaBencana.id berkaitan dengan: informasi\n• tas siaga bencana berkaitan dengan: air minum, makanan\n• Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi\n• tangga darurat berkaitan dengan: evakuasi\n• Pra Bencana berkaitan dengan: Pergeseran Tanah\n• Mitigasi bencana berkaitan dengan: Tahap prabencana\n• Daerah Rawan Bencana berkaitan dengan: Pemukiman'
+
+# Q: Apa itu titik kumpul dan apa fungsinya?
+# Reference: '• titik kumpul berkaitan dengan: evakuasi, zona evakuasi\n• Titik Kumpul berkaitan dengan: Rencana Kesiapsiagaan'
+
+# Q: Apa yang dimaksud dengan jalur evakuasi?
+# Reference: '• Rute Evakuasi berkaitan dengan: Pengetahuan\n• evakuasi berkaitan dengan: tempat tinggi, daerah yang lebih tinggi, rute evakuasi\n• skenario evakuasi berkaitan dengan: dukungan logistik\n• zona evakuasi berkaitan dengan: wilayah'
+
+# Q: Apa saja tahapan pasca bencana?
+# Reference: '• Kesiapsiagaan Bencana berkaitan dengan: Keselamatan\n• posko layanan bencana berkaitan dengan: pelatihan penyelamatan diri, bencana\n• Bencana Alam berkaitan dengan: penyandang disabilitas, kondisi fisik dan mental\n• Bencana berkaitan dengan: korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dampak psikologis, peristiwa atau rangkaian peristiwa\n• Bencana alam berkaitan dengan: gempa bumi, letusan gunung berapi, angin topan, tanah longsor, kekeringan\n• Bencana non-alam berkaitan dengan: kebakaran hutan/lahan, kecelakan transportasi, kegagalan konstruksi/teknologi, dampak industri, ledakan\n• BENCANA KABUPATEN BOGOR berkaitan dengan: wilayah Kabupaten Bogor, Kabupaten Bogor, kerusuhan sosial, kon\uf002ik sosial\n• bencana alam berkaitan dengan: penyandang disabilitas, kondisi\n• bencana berkaitan dengan: lokasi bencana, air banjir\n• PetaBencana.id berkaitan dengan: informasi\n• tas siaga bencana berkaitan dengan: air minum, makanan\n• Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) berkaitan dengan: Geologi\n• Pra Bencana berkaitan dengan: Pergeseran Tanah\n• Mitigasi bencana berkaitan dengan: Tahap prabencana\n• Daerah Rawan Bencana berkaitan dengan: Pemukiman'
+
